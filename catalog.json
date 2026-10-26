@@ -3,7 +3,6 @@
     "id": 1,
     "base_name": "Шоколадные конфеты \"Помадный микс\"",
     "image_path": "/assets/ch1.jpg",
-    "price_amd": 2360,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -43,7 +42,6 @@
     "id": 2,
     "base_name": "Шоколадные конфеты \"Батончик микс\"",
     "image_path": "/assets/ch2.jpg",
-    "price_amd": 2950,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -87,7 +85,6 @@
     "id": 3,
     "base_name": "Шоколадные конфеты \"Мираж\"",
     "image_path": "/assets/ch3.webp",
-    "price_amd": 4000,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -127,7 +124,6 @@
     "id": 4,
     "base_name": "Вафельные конфеты \"Ролло микс\"",
     "image_path": "/assets/ch4.jpg",
-    "price_amd": 3260,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -175,7 +171,6 @@
     "id": 5,
     "base_name": "\"Грильяж\" в темном шоколаде",
     "image_path": "/assets/ch5.webp",
-    "price_amd": 3330,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -215,7 +210,6 @@
     "id": 6,
     "base_name": "Шоколадные конфеты \"Осень\"",
     "image_path": "/assets/ch6.jpg",
-    "price_amd": 3200,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -255,7 +249,6 @@
     "id": 7,
     "base_name": "Шоколадные конфеты \"Балет\"",
     "image_path": "/assets/ch7.webp",
-    "price_amd": 2510,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -295,7 +288,6 @@
     "id": 8,
     "base_name": "Шоколадные конфеты \"Белочка с арахисом\"",
     "image_path": "/assets/ch8.webp",
-    "price_amd": 3400,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -335,7 +327,6 @@
     "id": 9,
     "base_name": "Шоколадные конфеты \"Огни Москвы\"",
     "image_path": "/assets/ch9.webp",
-    "price_amd": 3650,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -375,7 +366,6 @@
     "id": 10,
     "base_name": "Шоколадные конфеты \"Красный мак\"",
     "image_path": "/assets/ch10.webp",
-    "price_amd": 3460,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -415,7 +405,6 @@
     "id": 11,
     "base_name": "Шоколадные конфеты \"Кофейная\"",
     "image_path": "/assets/ch11.webp",
-    "price_amd": 3400,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -455,7 +444,6 @@
     "id": 12,
     "base_name": "Шоколадные конфеты \"Кара-Кум\"",
     "image_path": "/assets/ch12.webp",
-    "price_amd": 4460,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -495,7 +483,6 @@
     "id": 13,
     "base_name": "Шоколадные конфеты \"Белочка\"",
     "image_path": "/assets/ch13.webp",
-    "price_amd": 4960,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -535,7 +522,6 @@
     "id": 14,
     "base_name": "Вафельные конфеты \"Аленка\"",
     "image_path": "/assets/ch14.webp",
-    "price_amd": 3860,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -575,7 +561,6 @@
     "id": 15,
     "base_name": "Вафельные конфеты \"Красная шапочка\"",
     "image_path": "/assets/ch15.webp",
-    "price_amd": 3680,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -615,7 +600,6 @@
     "id": 16,
     "base_name": "Вафельные конфеты \"Мишка на севере\"",
     "image_path": "/assets/ch16.webp",
-    "price_amd": 3680,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -655,7 +639,6 @@
     "id": 17,
     "base_name": "Вафельные конфеты \"Мишка косолапый\"",
     "image_path": "/assets/ch17.webp",
-    "price_amd": 3860,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -695,7 +678,6 @@
     "id": 18,
     "base_name": "Вафельные конфеты \"Вафельный микс\"",
     "image_path": "/assets/ch18.webp",
-    "price_amd": 3650,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -735,7 +717,6 @@
     "id": 19,
     "base_name": "Трюфель помадный \"Золотые купола\"",
     "image_path": "/assets/ch19.webp",
-    "price_amd": 2680,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -775,7 +756,6 @@
     "id": 20,
     "base_name": "Трюфель кремовый \"Лакомка\"",
     "image_path": "/assets/ch20.webp",
-    "price_amd": 3400,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -815,7 +795,6 @@
     "id": 21,
     "base_name": "Трюфель кремовый \"Вечерний звон\"",
     "image_path": "/assets/ch21.webp",
-    "price_amd": 3400,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -855,7 +834,6 @@
     "id": 22,
     "base_name": "Шоколадные конфеты \"Трюфель\"",
     "image_path": "/assets/ch22.webp",
-    "price_amd": 5080,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -895,7 +873,6 @@
     "id": 23,
     "base_name": "Кремовые конфеты \"Трюфель микс\"",
     "image_path": "/assets/ch23.webp",
-    "price_amd": 5090,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -947,7 +924,6 @@
     "id": 24,
     "base_name": "Шоколадный трюфель  \"Элегант\"",
     "image_path": "/assets/ch24.webp",
-    "price_amd": 4800,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -987,7 +963,6 @@
     "id": 25,
     "base_name": "Шоколадные конфеты  \"Люксор\"",
     "image_path": "/assets/ch25.webp",
-    "price_amd": 5300,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1027,7 +1002,6 @@
     "id": 26,
     "base_name": "Шоколадные конфеты \"Наири\"с курагой",
     "image_path": "/assets/ch26.webp",
-    "price_amd": 500,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1042,32 +1016,28 @@
           "Packed chocolates with ground dried apricots, covered with chocolate."
         ],
         "shelfLife": "6 months",
-        "weightGrams": 100,
-        "pricePerKgDram": 5000
+        "weightGrams": 100
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια με αλεσμένα αποξηραμένα βερίκοκα, καλυμμένα με σοκολάτα."
         ],
         "shelfLife": "6 μήνες",
-        "weightGrams": 100,
-        "pricePerKgDram": 5000
+        "weightGrams": 100
       },
       "ru": {
         "description": [
           "Фасованные шоколадные конфеты с измельчённой курагой, покрытые шоколадом."
         ],
         "shelfLife": "6 месяцев",
-        "weightGrams": 100,
-        "pricePerKgDram": 5000
+        "weightGrams": 100
       },
       "hy": {
         "description": [
           "Փաթեթավորված շոկոլադե կոնֆետներ՝ աղացած ծիրանաչրով, պատված շոկոլադով։"
         ],
         "shelfLife": "6 ամիս",
-        "weightGrams": 100,
-        "pricePerKgDram": 5000
+        "weightGrams": 100
       }
     }
   },
@@ -1075,7 +1045,6 @@
     "id": 27,
     "base_name": "Шоколадные конфеты \"Наири\"с сухофруктом вишни",
     "image_path": "/assets/ch27.webp",
-    "price_amd": 750,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1090,32 +1059,28 @@
           "Packed chocolates with ground dried cherries, covered with chocolate."
         ],
         "shelfLife": "6 months",
-        "weightGrams": 100,
-        "pricePerKgDram": 7500
+        "weightGrams": 100
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια με αλεσμένα αποξηραμένα κεράσια, καλυμμένα με σοκολάτα."
         ],
         "shelfLife": "6 μήνες",
-        "weightGrams": 100,
-        "pricePerKgDram": 7500
+        "weightGrams": 100
       },
       "ru": {
         "description": [
           "Фасованные шоколадные конфеты с измельчённой сушёной вишней, покрытые шоколадом."
         ],
         "shelfLife": "6 месяцев",
-        "weightGrams": 100,
-        "pricePerKgDram": 7500
+        "weightGrams": 100
       },
       "hy": {
         "description": [
           "Փաթեթավորված շոկոլադե կոնֆետներ՝ աղացած չորացրած բալով, պատված շոկոլադով։"
         ],
         "shelfLife": "6 ամիս",
-        "weightGrams": 100,
-        "pricePerKgDram": 7500
+        "weightGrams": 100
       }
     }
   },
@@ -1123,7 +1088,6 @@
     "id": 28,
     "base_name": "Шоколадные конфеты \"Наири\"с сухофруктом персика",
     "image_path": "/assets/ch28.webp",
-    "price_amd": 500,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1138,32 +1102,28 @@
           "Packed chocolates with ground dried peaches, covered with chocolate."
         ],
         "shelfLife": "6 months",
-        "weightGrams": 100,
-        "pricePerKgDram": 5000
+        "weightGrams": 100
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια με αλεσμένα αποξηραμένα ροδάκινα, καλυμμένα με σοκολάτα."
         ],
         "shelfLife": "6 μήνες",
-        "weightGrams": 100,
-        "pricePerKgDram": 5000
+        "weightGrams": 100
       },
       "ru": {
         "description": [
           "Фасованные шоколадные конфеты с измельчёнными сушёными персиками, покрытые шоколадом."
         ],
         "shelfLife": "6 месяцев",
-        "weightGrams": 100,
-        "pricePerKgDram": 5000
+        "weightGrams": 100
       },
       "hy": {
         "description": [
           "Փաթեթավորված շոկոլադե կոնֆետներ՝ աղացած չորացրած դեղձով, պատված շոկոլադով։"
         ],
         "shelfLife": "6 ամիս",
-        "weightGrams": 100,
-        "pricePerKgDram": 5000
+        "weightGrams": 100
       }
     }
   },
@@ -1171,7 +1131,6 @@
     "id": 29,
     "base_name": "Шоколадные конфеты \"Наири\"с сухофруктом чернослива",
     "image_path": "/assets/ch29.webp",
-    "price_amd": 500,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1186,32 +1145,28 @@
           "Packed chocolates with ground dried prunes, covered with chocolate."
         ],
         "shelfLife": "6 months",
-        "weightGrams": 100,
-        "pricePerKgDram": 5000
+        "weightGrams": 100
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια με αλεσμένα αποξηραμένα δαμάσκηνα, καλυμμένα με σοκολάτα."
         ],
         "shelfLife": "6 μήνες",
-        "weightGrams": 100,
-        "pricePerKgDram": 5000
+        "weightGrams": 100
       },
       "ru": {
         "description": [
           "Фасованные шоколадные конфеты с измельчённым черносливом, покрытые шоколадом."
         ],
         "shelfLife": "6 месяцев",
-        "weightGrams": 100,
-        "pricePerKgDram": 5000
+        "weightGrams": 100
       },
       "hy": {
         "description": [
           "Փաթեթավորված շոկոլադե կոնֆետներ՝ աղացած սալորաչրով, պատված շոկոլադով։"
         ],
         "shelfLife": "6 ամիս",
-        "weightGrams": 100,
-        "pricePerKgDram": 5000
+        "weightGrams": 100
       }
     }
   },
@@ -1219,7 +1174,6 @@
     "id": 30,
     "base_name": "Kонфеты микс  \"Наири\"",
     "image_path": "/assets/ch30.webp",
-    "price_amd": 4600,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1259,7 +1213,6 @@
     "id": 31,
     "base_name": "Микс конфеты \"Сухофрукты в шоколаде\"",
     "image_path": "/assets/ch31.webp",
-    "price_amd": 6500,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1299,7 +1252,6 @@
     "id": 32,
     "base_name": "Конфеты \"Золотые монеты\"",
     "image_path": "/assets/ch32.webp",
-    "price_amd": 5840,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1339,7 +1291,6 @@
     "id": 33,
     "base_name": "Конфеты \"Ориент\"",
     "image_path": "/assets/ch33.webp",
-    "price_amd": 3500,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1379,7 +1330,6 @@
     "id": 34,
     "base_name": "Шоколадные конфеты \"Oпера\"",
     "image_path": "/assets/ch34.webp",
-    "price_amd": 3930,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1419,7 +1369,6 @@
     "id": 35,
     "base_name": "Шоколадные конфеты \"Панда\"",
     "image_path": "/assets/ch35.webp",
-    "price_amd": 3430,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1459,7 +1408,6 @@
     "id": 37,
     "base_name": "Шоколадные конфеты \"Ролло\"",
     "image_path": "/assets/ch36.webp",
-    "price_amd": 3540,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1499,7 +1447,6 @@
     "id": 38,
     "base_name": "Вафельные конфеты с семенами кунжута",
     "image_path": "/assets/ch37.webp",
-    "price_amd": 380,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1514,32 +1461,28 @@
           "Packed wafer chocolates with cream filling and sesame seeds, covered with milk chocolate."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 80,
-        "pricePerKgDram": 4750
+        "weightGrams": 80
       },
       "el": {
         "description": [
           "Συσκευασμένα γκοφρετάκια με γέμιση κρέμας και σουσάμι, καλυμμένα με σοκολάτα γάλακτος."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 80,
-        "pricePerKgDram": 4750
+        "weightGrams": 80
       },
       "ru": {
         "description": [
           "Фасованные вафельные конфеты с кремовой начинкой и кунжутом, покрытые молочным шоколадом."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 80,
-        "pricePerKgDram": 4750
+        "weightGrams": 80
       },
       "hy": {
         "description": [
           "Փաթեթավորված վաֆլե կոնֆետներ՝ կրեմային միջուկով և քունջութի սերմերով, պատված կաթնային շոկոլադով։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 80,
-        "pricePerKgDram": 4750
+        "weightGrams": 80
       }
     }
   },
@@ -1547,7 +1490,6 @@
     "id": 39,
     "base_name": "Шоколадные конфеты \"Тропикана\"",
     "image_path": "/assets/ch38.webp",
-    "price_amd": 3290,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1587,7 +1529,6 @@
     "id": 40,
     "base_name": "Конфеты с кокосовой начинкой",
     "image_path": "/assets/ch39.webp",
-    "price_amd": 430,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1602,32 +1543,28 @@
           "Packed chocolates with coconut flakes, covered with milk chocolate."
         ],
         "shelfLife": "3 months",
-        "weightGrams": 105,
-        "pricePerKgDram": 4095
+        "weightGrams": 105
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια με νιφάδες καρύδας, καλυμμένα με σοκολάτα γάλακτος."
         ],
         "shelfLife": "3 μήνες",
-        "weightGrams": 105,
-        "pricePerKgDram": 4095
+        "weightGrams": 105
       },
       "ru": {
         "description": [
           "Фасованные шоколадные конфеты с кокосовой стружкой, покрытые молочным шоколадом."
         ],
         "shelfLife": "3 месяца",
-        "weightGrams": 105,
-        "pricePerKgDram": 4095
+        "weightGrams": 105
       },
       "hy": {
         "description": [
           "Փաթեթավորված շոկոլադե կոնֆետներ՝ կոկոսի փաթիլներով, պատված կաթնային շոկոլադով։"
         ],
         "shelfLife": "3 ամիս",
-        "weightGrams": 105,
-        "pricePerKgDram": 4095
+        "weightGrams": 105
       }
     }
   },
@@ -1635,7 +1572,6 @@
     "id": 41,
     "base_name": "Шоколадные конфеты \"Бинго\"",
     "image_path": "/assets/ch40.webp",
-    "price_amd": 3900,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1675,7 +1611,6 @@
     "id": 44,
     "base_name": "Шоколадные конфеты \"Бинго\"",
     "image_path": "/assets/ch43.jpg",
-    "price_amd": 370,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1690,32 +1625,28 @@
           "Assorted wrapped chocolates with cream filling."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 80,
-        "pricePerKgDram": 4625
+        "weightGrams": 80
       },
       "el": {
         "description": [
           "Ποικιλία τυλιγμένων σοκολατακίων με γέμιση κρέμας."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 80,
-        "pricePerKgDram": 4625
+        "weightGrams": 80
       },
       "ru": {
         "description": [
           "Ассорти из шоколадных конфет в индивидуальной обёртке с кремовой начинкой."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 80,
-        "pricePerKgDram": 4625
+        "weightGrams": 80
       },
       "hy": {
         "description": [
           "Կրեմային միջուկով անհատական փաթեթավորված շոկոլադե կոնֆետների տեսականի։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 80,
-        "pricePerKgDram": 4625
+        "weightGrams": 80
       }
     }
   },
@@ -1723,7 +1654,6 @@
     "id": 42,
     "base_name": "Молочные шоколадные конфеты \"Эмоджи\"",
     "image_path": "/assets/ch41.webp",
-    "price_amd": 5250,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1763,7 +1693,6 @@
     "id": 45,
     "base_name": "Молочные шоколадные конфеты \"Эмоджи\"",
     "image_path": "/assets/ch44.webp",
-    "price_amd": 480,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1778,32 +1707,28 @@
           "Packed milk chocolates with popping caramel."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 80,
-        "pricePerKgDram": 6000
+        "weightGrams": 80
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια γάλακτος με καραμέλα που σκάει."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 80,
-        "pricePerKgDram": 6000
+        "weightGrams": 80
       },
       "ru": {
         "description": [
           "Фасованные молочные шоколадные конфеты с шипучей карамелью."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 80,
-        "pricePerKgDram": 6000
+        "weightGrams": 80
       },
       "hy": {
         "description": [
           "Փաթեթավորված կաթնային շոկոլադե կոնֆետներ՝ պայթող կարամելով։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 80,
-        "pricePerKgDram": 6000
+        "weightGrams": 80
       }
     }
   },
@@ -1811,7 +1736,6 @@
     "id": 43,
     "base_name": "Шоколадные конфеты \"Джуниор\"",
     "image_path": "/assets/ch42.webp",
-    "price_amd": 4090,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1851,7 +1775,6 @@
     "id": 46,
     "base_name": "Молочные шоколадные конфеты \"Кофейные зёрна\"",
     "image_path": "/assets/ch45.webp",
-    "price_amd": 1400,
     "unit": "шт",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -1866,32 +1789,28 @@
           "Milk chocolates in the form of coffee beans, in a metal box."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 80,
-        "pricePerKgDram": 17500
+        "weightGrams": 80
       },
       "el": {
         "description": [
           "Σοκολατάκια γάλακτος σε σχήμα κόκκων καφέ, σε μεταλλικό κουτί."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 80,
-        "pricePerKgDram": 17500
+        "weightGrams": 80
       },
       "ru": {
         "description": [
           "Молочные шоколадные конфеты в форме кофейных зёрен в металлической коробке."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 80,
-        "pricePerKgDram": 17500
+        "weightGrams": 80
       },
       "hy": {
         "description": [
           "Կաթնային շոկոլադե կոնֆետներ՝ սուրճի հատիկների տեսքով, մետաղական տուփի մեջ։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 80,
-        "pricePerKgDram": 17500
+        "weightGrams": 80
       }
     }
   },
@@ -1899,7 +1818,6 @@
     "id": 47,
     "base_name": "Тёмные шоколадные конфеты \"Кофейные зёрна\"",
     "image_path": "/assets/ch46.webp",
-    "price_amd": 1400,
     "unit": "шт",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -1914,32 +1832,28 @@
           "Dark chocolates in the form of coffee beans, in a metal box."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 80,
-        "pricePerKgDram": 17500
+        "weightGrams": 80
       },
       "el": {
         "description": [
           "Σοκολατάκια μαύρης σοκολάτας σε σχήμα κόκκων καφέ, σε μεταλλικό κουτί."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 80,
-        "pricePerKgDram": 17500
+        "weightGrams": 80
       },
       "ru": {
         "description": [
           "Конфеты из тёмного шоколада в форме кофейных зёрен в металлической коробке."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 80,
-        "pricePerKgDram": 17500
+        "weightGrams": 80
       },
       "hy": {
         "description": [
           "Մուգ շոկոլադե կոնֆետներ՝ սուրճի հատիկների տեսքով, մետաղական տուփի մեջ։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 80,
-        "pricePerKgDram": 17500
+        "weightGrams": 80
       }
     }
   },
@@ -1947,7 +1861,6 @@
     "id": 48,
     "base_name": "Шоколадные конфеты в коробке \"Золотой слиток\"",
     "image_path": "/assets/ch47.webp",
-    "price_amd": 1700,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -1963,8 +1876,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 210,
-        "piecesPerPack": 20,
-        "pricePerKgDram": 8095
+        "piecesPerPack": 20
       },
       "el": {
         "description": [
@@ -1972,8 +1884,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 210,
-        "piecesPerPack": 20,
-        "pricePerKgDram": 8095
+        "piecesPerPack": 20
       },
       "ru": {
         "description": [
@@ -1981,8 +1892,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 210,
-        "piecesPerPack": 20,
-        "pricePerKgDram": 8095
+        "piecesPerPack": 20
       },
       "hy": {
         "description": [
@@ -1990,8 +1900,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 210,
-        "piecesPerPack": 20,
-        "pricePerKgDram": 8095
+        "piecesPerPack": 20
       }
     }
   },
@@ -1999,7 +1908,6 @@
     "id": 49,
     "base_name": "Ассорти шоколадных конфет \"С любовью\"",
     "image_path": "/assets/ch48.webp",
-    "price_amd": 1440,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2015,8 +1923,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 160,
-        "piecesPerPack": 12,
-        "pricePerKgDram": 9000
+        "piecesPerPack": 12
       },
       "el": {
         "description": [
@@ -2024,8 +1931,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 160,
-        "piecesPerPack": 12,
-        "pricePerKgDram": 9000
+        "piecesPerPack": 12
       },
       "ru": {
         "description": [
@@ -2033,8 +1939,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 160,
-        "piecesPerPack": 12,
-        "pricePerKgDram": 9000
+        "piecesPerPack": 12
       },
       "hy": {
         "description": [
@@ -2042,8 +1947,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 160,
-        "piecesPerPack": 12,
-        "pricePerKgDram": 9000
+        "piecesPerPack": 12
       }
     }
   },
@@ -2051,7 +1955,6 @@
     "id": 50,
     "base_name": "Трюфели в коробке \"Элегант\"",
     "image_path": "/assets/ch49.webp",
-    "price_amd": 2000,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2066,32 +1969,28 @@
           "Milk chocolate truffles with cream filling, covered with cocoa powder."
         ],
         "shelfLife": "9 months",
-        "weightGrams": 230,
-        "pricePerKgDram": 8696
+        "weightGrams": 230
       },
       "el": {
         "description": [
           "Τρούφες σοκολάτας γάλακτος με γέμιση κρέμας, καλυμμένες με σκόνη κακάο."
         ],
         "shelfLife": "9 μήνες",
-        "weightGrams": 230,
-        "pricePerKgDram": 8696
+        "weightGrams": 230
       },
       "ru": {
         "description": [
           "Трюфели из молочного шоколада с кремовой начинкой, покрытые какао-порошком."
         ],
         "shelfLife": "9 месяцев",
-        "weightGrams": 230,
-        "pricePerKgDram": 8696
+        "weightGrams": 230
       },
       "hy": {
         "description": [
           "Կաթնային շոկոլադե տրյուֆելներ՝ կրեմային միջուկով, պատված կակաոյի փոշով։"
         ],
         "shelfLife": "9 ամիս",
-        "weightGrams": 230,
-        "pricePerKgDram": 8696
+        "weightGrams": 230
       }
     }
   },
@@ -2099,7 +1998,6 @@
     "id": 51,
     "base_name": "Шоколадные конфеты в коробке \"Ориент Трюфель\"",
     "image_path": "/assets/ch50.webp",
-    "price_amd": 1260,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2115,8 +2013,7 @@
         ],
         "shelfLife": "12 months",
         "weightGrams": 190,
-        "piecesPerPack": 16,
-        "pricePerKgDram": 6632
+        "piecesPerPack": 16
       },
       "el": {
         "description": [
@@ -2124,8 +2021,7 @@
         ],
         "shelfLife": "12 μήνες",
         "weightGrams": 190,
-        "piecesPerPack": 16,
-        "pricePerKgDram": 6632
+        "piecesPerPack": 16
       },
       "ru": {
         "description": [
@@ -2133,8 +2029,7 @@
         ],
         "shelfLife": "12 месяцев",
         "weightGrams": 190,
-        "piecesPerPack": 16,
-        "pricePerKgDram": 6632
+        "piecesPerPack": 16
       },
       "hy": {
         "description": [
@@ -2142,8 +2037,7 @@
         ],
         "shelfLife": "12 ամիս",
         "weightGrams": 190,
-        "piecesPerPack": 16,
-        "pricePerKgDram": 6632
+        "piecesPerPack": 16
       }
     }
   },
@@ -2151,7 +2045,6 @@
     "id": 52,
     "base_name": "Шоколадные конфеты в коробке \"Ориент\"",
     "image_path": "/assets/ch51.webp",
-    "price_amd": 2340,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2166,32 +2059,28 @@
           "Packed chocolates. Oriental sweet, soft and light like cotton candy, glazed with milk glaze."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 500,
-        "pricePerKgDram": 4680
+        "weightGrams": 500
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια. Ανατολίτικο γλύκισμα, απαλό και ελαφρύ σαν μαλλί της γριάς, με γλάσο γάλακτος."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 500,
-        "pricePerKgDram": 4680
+        "weightGrams": 500
       },
       "ru": {
         "description": [
           "Фасованные шоколадные конфеты. Восточная сладость, мягкая и лёгкая, как сахарная вата, покрытая молочной глазурью."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 500,
-        "pricePerKgDram": 4680
+        "weightGrams": 500
       },
       "hy": {
         "description": [
           "Փաթեթավորված շոկոլադե կոնֆետներ։ Արևելյան քաղցրավենիք՝ փափուկ և թեթև բամբակե քաղցրավենիքի պես, պատված կաթնային ջնարակով։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 500,
-        "pricePerKgDram": 4680
+        "weightGrams": 500
       }
     }
   },
@@ -2199,7 +2088,6 @@
     "id": 53,
     "base_name": "Шоколадное ассорти \"Парвана\"",
     "image_path": "/assets/ch52.webp",
-    "price_amd": 1190,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2215,8 +2103,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 190,
-        "piecesPerPack": 18,
-        "pricePerKgDram": 6263
+        "piecesPerPack": 18
       },
       "el": {
         "description": [
@@ -2224,8 +2111,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 190,
-        "piecesPerPack": 18,
-        "pricePerKgDram": 6263
+        "piecesPerPack": 18
       },
       "ru": {
         "description": [
@@ -2233,8 +2119,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 190,
-        "piecesPerPack": 18,
-        "pricePerKgDram": 6263
+        "piecesPerPack": 18
       },
       "hy": {
         "description": [
@@ -2242,8 +2127,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 190,
-        "piecesPerPack": 18,
-        "pricePerKgDram": 6263
+        "piecesPerPack": 18
       }
     }
   },
@@ -2251,7 +2135,6 @@
     "id": 54,
     "base_name": "Шоколадное ассорти \"Цветы\"",
     "image_path": "/assets/ch53.webp",
-    "price_amd": 1650,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2267,8 +2150,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 220,
-        "piecesPerPack": 22,
-        "pricePerKgDram": 7500
+        "piecesPerPack": 22
       },
       "el": {
         "description": [
@@ -2276,8 +2158,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 220,
-        "piecesPerPack": 22,
-        "pricePerKgDram": 7500
+        "piecesPerPack": 22
       },
       "ru": {
         "description": [
@@ -2285,8 +2166,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 220,
-        "piecesPerPack": 22,
-        "pricePerKgDram": 7500
+        "piecesPerPack": 22
       },
       "hy": {
         "description": [
@@ -2294,8 +2174,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 220,
-        "piecesPerPack": 22,
-        "pricePerKgDram": 7500
+        "piecesPerPack": 22
       }
     }
   },
@@ -2303,7 +2182,6 @@
     "id": 55,
     "base_name": "Шоколадное ассорти \"Классик\"",
     "image_path": "/assets/ch54.webp",
-    "price_amd": 1590,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2319,8 +2197,7 @@
         ],
         "shelfLife": "4 months",
         "weightGrams": 190,
-        "piecesPerPack": 17,
-        "pricePerKgDram": 8368
+        "piecesPerPack": 17
       },
       "el": {
         "description": [
@@ -2328,8 +2205,7 @@
         ],
         "shelfLife": "4 μήνες",
         "weightGrams": 190,
-        "piecesPerPack": 17,
-        "pricePerKgDram": 8368
+        "piecesPerPack": 17
       },
       "ru": {
         "description": [
@@ -2337,8 +2213,7 @@
         ],
         "shelfLife": "4 месяца",
         "weightGrams": 190,
-        "piecesPerPack": 17,
-        "pricePerKgDram": 8368
+        "piecesPerPack": 17
       },
       "hy": {
         "description": [
@@ -2346,8 +2221,7 @@
         ],
         "shelfLife": "4 ամիս",
         "weightGrams": 190,
-        "piecesPerPack": 17,
-        "pricePerKgDram": 8368
+        "piecesPerPack": 17
       }
     }
   },
@@ -2355,7 +2229,6 @@
     "id": 56,
     "base_name": "Шоколадное ассорти \"Ассорти\"",
     "image_path": "/assets/ch55.webp",
-    "price_amd": 2150,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2371,8 +2244,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 250,
-        "piecesPerPack": 21,
-        "pricePerKgDram": 8600
+        "piecesPerPack": 21
       },
       "el": {
         "description": [
@@ -2380,8 +2252,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 250,
-        "piecesPerPack": 21,
-        "pricePerKgDram": 8600
+        "piecesPerPack": 21
       },
       "ru": {
         "description": [
@@ -2389,8 +2260,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 250,
-        "piecesPerPack": 21,
-        "pricePerKgDram": 8600
+        "piecesPerPack": 21
       },
       "hy": {
         "description": [
@@ -2398,8 +2268,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 250,
-        "piecesPerPack": 21,
-        "pricePerKgDram": 8600
+        "piecesPerPack": 21
       }
     }
   },
@@ -2407,7 +2276,6 @@
     "id": 57,
     "base_name": "Шоколадное ассорти \"Гарни\"",
     "image_path": "/assets/ch56.webp",
-    "price_amd": 2550,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2423,8 +2291,7 @@
         ],
         "shelfLife": "4 months",
         "weightGrams": 410,
-        "piecesPerPack": 36,
-        "pricePerKgDram": 6220
+        "piecesPerPack": 36
       },
       "el": {
         "description": [
@@ -2432,8 +2299,7 @@
         ],
         "shelfLife": "4 μήνες",
         "weightGrams": 410,
-        "piecesPerPack": 36,
-        "pricePerKgDram": 6220
+        "piecesPerPack": 36
       },
       "ru": {
         "description": [
@@ -2441,8 +2307,7 @@
         ],
         "shelfLife": "4 месяца",
         "weightGrams": 410,
-        "piecesPerPack": 36,
-        "pricePerKgDram": 6220
+        "piecesPerPack": 36
       },
       "hy": {
         "description": [
@@ -2450,8 +2315,7 @@
         ],
         "shelfLife": "4 ամիս",
         "weightGrams": 410,
-        "piecesPerPack": 36,
-        "pricePerKgDram": 6220
+        "piecesPerPack": 36
       }
     }
   },
@@ -2459,7 +2323,6 @@
     "id": 58,
     "base_name": "Шоколадное ассорти \"Ван\"",
     "image_path": "/assets/ch57.webp",
-    "price_amd": 2950,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2475,8 +2338,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 520,
-        "piecesPerPack": 45,
-        "pricePerKgDram": 5673
+        "piecesPerPack": 45
       },
       "el": {
         "description": [
@@ -2484,8 +2346,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 520,
-        "piecesPerPack": 45,
-        "pricePerKgDram": 5673
+        "piecesPerPack": 45
       },
       "ru": {
         "description": [
@@ -2493,8 +2354,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 520,
-        "piecesPerPack": 45,
-        "pricePerKgDram": 5673
+        "piecesPerPack": 45
       },
       "hy": {
         "description": [
@@ -2502,8 +2362,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 520,
-        "piecesPerPack": 45,
-        "pricePerKgDram": 5673
+        "piecesPerPack": 45
       }
     }
   },
@@ -2511,7 +2370,6 @@
     "id": 59,
     "base_name": "Шоколадное ассорти \"Звартноц\"",
     "image_path": "/assets/ch58.webp",
-    "price_amd": 1700,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2527,8 +2385,7 @@
         ],
         "shelfLife": "4 months",
         "weightGrams": 210,
-        "piecesPerPack": 17,
-        "pricePerKgDram": 8095
+        "piecesPerPack": 17
       },
       "el": {
         "description": [
@@ -2536,8 +2393,7 @@
         ],
         "shelfLife": "4 μήνες",
         "weightGrams": 210,
-        "piecesPerPack": 17,
-        "pricePerKgDram": 8095
+        "piecesPerPack": 17
       },
       "ru": {
         "description": [
@@ -2545,8 +2401,7 @@
         ],
         "shelfLife": "4 месяца",
         "weightGrams": 210,
-        "piecesPerPack": 17,
-        "pricePerKgDram": 8095
+        "piecesPerPack": 17
       },
       "hy": {
         "description": [
@@ -2554,8 +2409,7 @@
         ],
         "shelfLife": "4 ամիս",
         "weightGrams": 210,
-        "piecesPerPack": 17,
-        "pricePerKgDram": 8095
+        "piecesPerPack": 17
       }
     }
   },
@@ -2563,7 +2417,6 @@
     "id": 60,
     "base_name": "Шоколадные конфеты в коробке \"Дольче Вита\"",
     "image_path": "/assets/ch59.webp",
-    "price_amd": 1720,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2579,8 +2432,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 200,
-        "piecesPerPack": 20,
-        "pricePerKgDram": 8600
+        "piecesPerPack": 20
       },
       "el": {
         "description": [
@@ -2588,8 +2440,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 200,
-        "piecesPerPack": 20,
-        "pricePerKgDram": 8600
+        "piecesPerPack": 20
       },
       "ru": {
         "description": [
@@ -2597,8 +2448,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 200,
-        "piecesPerPack": 20,
-        "pricePerKgDram": 8600
+        "piecesPerPack": 20
       },
       "hy": {
         "description": [
@@ -2606,8 +2456,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 200,
-        "piecesPerPack": 20,
-        "pricePerKgDram": 8600
+        "piecesPerPack": 20
       }
     }
   },
@@ -2615,7 +2464,6 @@
     "id": 61,
     "base_name": "Шоколадное ассорти \"Праздничное\"",
     "image_path": "/assets/ch60.webp",
-    "price_amd": 1900,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2631,8 +2479,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 270,
-        "piecesPerPack": 24,
-        "pricePerKgDram": 7037
+        "piecesPerPack": 24
       },
       "el": {
         "description": [
@@ -2640,8 +2487,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 270,
-        "piecesPerPack": 24,
-        "pricePerKgDram": 7037
+        "piecesPerPack": 24
       },
       "ru": {
         "description": [
@@ -2649,8 +2495,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 270,
-        "piecesPerPack": 24,
-        "pricePerKgDram": 7037
+        "piecesPerPack": 24
       },
       "hy": {
         "description": [
@@ -2658,8 +2503,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 270,
-        "piecesPerPack": 24,
-        "pricePerKgDram": 7037
+        "piecesPerPack": 24
       }
     }
   },
@@ -2667,7 +2511,6 @@
     "id": 62,
     "base_name": "Шоколадное ассорти \"Анаит\"",
     "image_path": "/assets/ch61.webp",
-    "price_amd": 2260,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2683,8 +2526,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 350,
-        "piecesPerPack": 30,
-        "pricePerKgDram": 6457
+        "piecesPerPack": 30
       },
       "el": {
         "description": [
@@ -2692,8 +2534,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 350,
-        "piecesPerPack": 30,
-        "pricePerKgDram": 6457
+        "piecesPerPack": 30
       },
       "ru": {
         "description": [
@@ -2701,8 +2542,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 350,
-        "piecesPerPack": 30,
-        "pricePerKgDram": 6457
+        "piecesPerPack": 30
       },
       "hy": {
         "description": [
@@ -2710,8 +2550,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 350,
-        "piecesPerPack": 30,
-        "pricePerKgDram": 6457
+        "piecesPerPack": 30
       }
     }
   },
@@ -2719,7 +2558,6 @@
     "id": 63,
     "base_name": "Шоколадные конфеты в коробке \"Вишня в шоколаде\"",
     "image_path": "/assets/ch62.webp",
-    "price_amd": 2030,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2735,8 +2573,7 @@
         ],
         "shelfLife": "4 months",
         "weightGrams": 220,
-        "piecesPerPack": 16,
-        "pricePerKgDram": 9227
+        "piecesPerPack": 16
       },
       "el": {
         "description": [
@@ -2744,8 +2581,7 @@
         ],
         "shelfLife": "4 μήνες",
         "weightGrams": 220,
-        "piecesPerPack": 16,
-        "pricePerKgDram": 9227
+        "piecesPerPack": 16
       },
       "ru": {
         "description": [
@@ -2753,8 +2589,7 @@
         ],
         "shelfLife": "4 месяца",
         "weightGrams": 220,
-        "piecesPerPack": 16,
-        "pricePerKgDram": 9227
+        "piecesPerPack": 16
       },
       "hy": {
         "description": [
@@ -2762,8 +2597,7 @@
         ],
         "shelfLife": "4 ամիս",
         "weightGrams": 220,
-        "piecesPerPack": 16,
-        "pricePerKgDram": 9227
+        "piecesPerPack": 16
       }
     }
   },
@@ -2771,7 +2605,6 @@
     "id": 64,
     "base_name": "Шоколадное ассорти \"Коллекция\"",
     "image_path": "/assets/ch63.webp",
-    "price_amd": 2600,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2787,8 +2620,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 300,
-        "piecesPerPack": 26,
-        "pricePerKgDram": 8667
+        "piecesPerPack": 26
       },
       "el": {
         "description": [
@@ -2796,8 +2628,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 300,
-        "piecesPerPack": 26,
-        "pricePerKgDram": 8667
+        "piecesPerPack": 26
       },
       "ru": {
         "description": [
@@ -2805,8 +2636,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 300,
-        "piecesPerPack": 26,
-        "pricePerKgDram": 8667
+        "piecesPerPack": 26
       },
       "hy": {
         "description": [
@@ -2814,8 +2644,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 300,
-        "piecesPerPack": 26,
-        "pricePerKgDram": 8667
+        "piecesPerPack": 26
       }
     }
   },
@@ -2823,7 +2652,6 @@
     "id": 65,
     "base_name": "Шоколадное ассорти \"Эксклюзив\"",
     "image_path": "/assets/ch64.webp",
-    "price_amd": 2550,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2839,8 +2667,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 200,
-        "piecesPerPack": 15,
-        "pricePerKgDram": 12750
+        "piecesPerPack": 15
       },
       "el": {
         "description": [
@@ -2848,8 +2675,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 200,
-        "piecesPerPack": 15,
-        "pricePerKgDram": 12750
+        "piecesPerPack": 15
       },
       "ru": {
         "description": [
@@ -2857,8 +2683,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 200,
-        "piecesPerPack": 15,
-        "pricePerKgDram": 12750
+        "piecesPerPack": 15
       },
       "hy": {
         "description": [
@@ -2866,8 +2691,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 200,
-        "piecesPerPack": 15,
-        "pricePerKgDram": 12750
+        "piecesPerPack": 15
       }
     }
   },
@@ -2875,7 +2699,6 @@
     "id": 66,
     "base_name": "Шоколадное ассорти \"Эксклюзив\"",
     "image_path": "/assets/ch65.webp",
-    "price_amd": 5090,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2891,8 +2714,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 410,
-        "piecesPerPack": 30,
-        "pricePerKgDram": 12415
+        "piecesPerPack": 30
       },
       "el": {
         "description": [
@@ -2900,8 +2722,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 410,
-        "piecesPerPack": 30,
-        "pricePerKgDram": 12415
+        "piecesPerPack": 30
       },
       "ru": {
         "description": [
@@ -2909,8 +2730,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 410,
-        "piecesPerPack": 30,
-        "pricePerKgDram": 12415
+        "piecesPerPack": 30
       },
       "hy": {
         "description": [
@@ -2918,8 +2738,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 410,
-        "piecesPerPack": 30,
-        "pricePerKgDram": 12415
+        "piecesPerPack": 30
       }
     }
   },
@@ -2927,7 +2746,6 @@
     "id": 67,
     "base_name": "Шоколадные конфеты в коробке \"Люксор\" с фисташковой начинкой",
     "image_path": "/assets/ch66.webp",
-    "price_amd": 4000,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2943,8 +2761,7 @@
         ],
         "shelfLife": "9 months",
         "weightGrams": 200,
-        "piecesPerPack": 25,
-        "pricePerKgDram": 20000
+        "piecesPerPack": 25
       },
       "el": {
         "description": [
@@ -2952,8 +2769,7 @@
         ],
         "shelfLife": "9 μήνες",
         "weightGrams": 200,
-        "piecesPerPack": 25,
-        "pricePerKgDram": 20000
+        "piecesPerPack": 25
       },
       "ru": {
         "description": [
@@ -2961,8 +2777,7 @@
         ],
         "shelfLife": "9 месяцев",
         "weightGrams": 200,
-        "piecesPerPack": 25,
-        "pricePerKgDram": 20000
+        "piecesPerPack": 25
       },
       "hy": {
         "description": [
@@ -2970,8 +2785,7 @@
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 200,
-        "piecesPerPack": 25,
-        "pricePerKgDram": 20000
+        "piecesPerPack": 25
       }
     }
   },
@@ -2979,7 +2793,6 @@
     "id": 68,
     "base_name": "Финики в шоколаде с фисташками",
     "image_path": "/assets/ch67.webp",
-    "price_amd": 1640,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -2995,8 +2808,7 @@
         ],
         "shelfLife": "9 months",
         "weightGrams": 100,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 16400
+        "piecesPerPack": 5
       },
       "el": {
         "description": [
@@ -3004,8 +2816,7 @@
         ],
         "shelfLife": "9 μήνες",
         "weightGrams": 100,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 16400
+        "piecesPerPack": 5
       },
       "ru": {
         "description": [
@@ -3013,8 +2824,7 @@
         ],
         "shelfLife": "9 месяцев",
         "weightGrams": 100,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 16400
+        "piecesPerPack": 5
       },
       "hy": {
         "description": [
@@ -3022,8 +2832,7 @@
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 100,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 16400
+        "piecesPerPack": 5
       }
     }
   },
@@ -3031,7 +2840,6 @@
     "id": 69,
     "base_name": "Сушёная вишня в шоколаде с фундуком",
     "image_path": "/assets/ch68.webp",
-    "price_amd": 1640,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3047,8 +2855,7 @@
         ],
         "shelfLife": "9 months",
         "weightGrams": 100,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 16400
+        "piecesPerPack": 5
       },
       "el": {
         "description": [
@@ -3056,8 +2863,7 @@
         ],
         "shelfLife": "9 μήνες",
         "weightGrams": 100,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 16400
+        "piecesPerPack": 5
       },
       "ru": {
         "description": [
@@ -3065,8 +2871,7 @@
         ],
         "shelfLife": "9 месяцев",
         "weightGrams": 100,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 16400
+        "piecesPerPack": 5
       },
       "hy": {
         "description": [
@@ -3074,8 +2879,7 @@
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 100,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 16400
+        "piecesPerPack": 5
       }
     }
   },
@@ -3083,7 +2887,6 @@
     "id": 70,
     "base_name": "Сушёные персики в шоколаде с миндалём",
     "image_path": "/assets/ch69.webp",
-    "price_amd": 1220,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3099,8 +2902,7 @@
         ],
         "shelfLife": "9 months",
         "weightGrams": 110,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 11091
+        "piecesPerPack": 5
       },
       "el": {
         "description": [
@@ -3108,8 +2910,7 @@
         ],
         "shelfLife": "9 μήνες",
         "weightGrams": 110,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 11091
+        "piecesPerPack": 5
       },
       "ru": {
         "description": [
@@ -3117,8 +2918,7 @@
         ],
         "shelfLife": "9 месяцев",
         "weightGrams": 110,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 11091
+        "piecesPerPack": 5
       },
       "hy": {
         "description": [
@@ -3126,8 +2926,7 @@
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 110,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 11091
+        "piecesPerPack": 5
       }
     }
   },
@@ -3135,7 +2934,6 @@
     "id": 71,
     "base_name": "Сушёные абрикосы в шоколаде с орехами пекан",
     "image_path": "/assets/ch70.webp",
-    "price_amd": 1420,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3151,8 +2949,7 @@
         ],
         "shelfLife": "9 months",
         "weightGrams": 100,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 14200
+        "piecesPerPack": 5
       },
       "el": {
         "description": [
@@ -3160,8 +2957,7 @@
         ],
         "shelfLife": "9 μήνες",
         "weightGrams": 100,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 14200
+        "piecesPerPack": 5
       },
       "ru": {
         "description": [
@@ -3169,8 +2965,7 @@
         ],
         "shelfLife": "9 месяцев",
         "weightGrams": 100,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 14200
+        "piecesPerPack": 5
       },
       "hy": {
         "description": [
@@ -3178,8 +2973,7 @@
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 100,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 14200
+        "piecesPerPack": 5
       }
     }
   },
@@ -3187,7 +2981,6 @@
     "id": 72,
     "base_name": "Сушёные сливы в шоколаде с миндалём",
     "image_path": "/assets/ch71.webp",
-    "price_amd": 1050,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3203,8 +2996,7 @@
         ],
         "shelfLife": "9 months",
         "weightGrams": 90,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 11667
+        "piecesPerPack": 5
       },
       "el": {
         "description": [
@@ -3212,8 +3004,7 @@
         ],
         "shelfLife": "9 μήνες",
         "weightGrams": 90,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 11667
+        "piecesPerPack": 5
       },
       "ru": {
         "description": [
@@ -3221,8 +3012,7 @@
         ],
         "shelfLife": "9 месяцев",
         "weightGrams": 90,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 11667
+        "piecesPerPack": 5
       },
       "hy": {
         "description": [
@@ -3230,8 +3020,7 @@
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 90,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 11667
+        "piecesPerPack": 5
       }
     }
   },
@@ -3239,7 +3028,6 @@
     "id": 73,
     "base_name": "Финики в шоколаде с фисташками",
     "image_path": "/assets/ch72.webp",
-    "price_amd": 3400,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3254,32 +3042,28 @@
           "Packed chocolates with whole dried dates and pistachios, covered with chocolate."
         ],
         "shelfLife": "9 months",
-        "weightGrams": 250,
-        "pricePerKgDram": 13600
+        "weightGrams": 250
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια με ολόκληρους αποξηραμένους χουρμάδες και φιστίκια, καλυμμένα με σοκολάτα."
         ],
         "shelfLife": "9 μήνες",
-        "weightGrams": 250,
-        "pricePerKgDram": 13600
+        "weightGrams": 250
       },
       "ru": {
         "description": [
           "Упакованные конфеты с целыми сушёными финиками и фисташками, покрытые шоколадом."
         ],
         "shelfLife": "9 месяцев",
-        "weightGrams": 250,
-        "pricePerKgDram": 13600
+        "weightGrams": 250
       },
       "hy": {
         "description": [
           "Փաթեթավորված շոկոլադե կոնֆետներ՝ ամբողջական չորացրած արմավով և պիստակով, պատված շոկոլադով։"
         ],
         "shelfLife": "9 ամիս",
-        "weightGrams": 250,
-        "pricePerKgDram": 13600
+        "weightGrams": 250
       }
     }
   },
@@ -3287,7 +3071,6 @@
     "id": 74,
     "base_name": "Сушёная вишня в шоколаде с фундуком",
     "image_path": "/assets/ch73.webp",
-    "price_amd": 3480,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3302,32 +3085,28 @@
           "Packed chocolates with whole dried cherries and hazelnuts, covered with chocolate."
         ],
         "shelfLife": "9 months",
-        "weightGrams": 250,
-        "pricePerKgDram": 13920
+        "weightGrams": 250
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια με ολόκληρα αποξηραμένα κεράσια και φουντούκια, καλυμμένα με σοκολάτα."
         ],
         "shelfLife": "9 μήνες",
-        "weightGrams": 250,
-        "pricePerKgDram": 13920
+        "weightGrams": 250
       },
       "ru": {
         "description": [
           "Упакованные конфеты с целой сушёной вишней и фундуком, покрытые шоколадом."
         ],
         "shelfLife": "9 месяцев",
-        "weightGrams": 250,
-        "pricePerKgDram": 13920
+        "weightGrams": 250
       },
       "hy": {
         "description": [
           "Փաթեթավորված շոկոլադե կոնֆետներ՝ ամբողջական չորացրած բալով և պնդուկով, պատված շոկոլադով։"
         ],
         "shelfLife": "9 ամիս",
-        "weightGrams": 250,
-        "pricePerKgDram": 13920
+        "weightGrams": 250
       }
     }
   },
@@ -3335,7 +3114,6 @@
     "id": 75,
     "base_name": "Сушёные персики в шоколаде с миндалём",
     "image_path": "/assets/ch74.webp",
-    "price_amd": 2120,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3350,32 +3128,28 @@
           "Packed chocolates with whole dried peaches and almonds, covered with chocolate."
         ],
         "shelfLife": "9 months",
-        "weightGrams": 250,
-        "pricePerKgDram": 8480
+        "weightGrams": 250
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια με ολόκληρα αποξηραμένα ροδάκινα και αμύγδαλα, καλυμμένα με σοκολάτα."
         ],
         "shelfLife": "9 μήνες",
-        "weightGrams": 250,
-        "pricePerKgDram": 8480
+        "weightGrams": 250
       },
       "ru": {
         "description": [
           "Упакованные конфеты с целыми сушёными персиками и миндалём, покрытые шоколадом."
         ],
         "shelfLife": "9 месяцев",
-        "weightGrams": 250,
-        "pricePerKgDram": 8480
+        "weightGrams": 250
       },
       "hy": {
         "description": [
           "Փաթեթավորված շոկոլադե կոնֆետներ՝ ամբողջական չորացրած դեղձով և նուշով, պատված շոկոլադով։"
         ],
         "shelfLife": "9 ամիս",
-        "weightGrams": 250,
-        "pricePerKgDram": 8480
+        "weightGrams": 250
       }
     }
   },
@@ -3383,7 +3157,6 @@
     "id": 76,
     "base_name": "Сушёные абрикосы в шоколаде с орехами пекан",
     "image_path": "/assets/ch75.webp",
-    "price_amd": 2890,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3398,32 +3171,28 @@
           "Packed chocolates with whole dried apricots and pecan nuts, covered with chocolate."
         ],
         "shelfLife": "9 months",
-        "weightGrams": 250,
-        "pricePerKgDram": 11560
+        "weightGrams": 250
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια με ολόκληρα αποξηραμένα βερίκοκα και πεκάν, καλυμμένα με σοκολάτα."
         ],
         "shelfLife": "9 μήνες",
-        "weightGrams": 250,
-        "pricePerKgDram": 11560
+        "weightGrams": 250
       },
       "ru": {
         "description": [
           "Упакованные конфеты с целыми сушёными абрикосами и орехами пекан, покрытые шоколадом."
         ],
         "shelfLife": "9 месяцев",
-        "weightGrams": 250,
-        "pricePerKgDram": 11560
+        "weightGrams": 250
       },
       "hy": {
         "description": [
           "Փաթեթավորված շոկոլադե կոնֆետներ՝ ամբողջական չորացրած ծիրանով և պեկան ընկույզով, պատված շոկոլադով։"
         ],
         "shelfLife": "9 ամիս",
-        "weightGrams": 250,
-        "pricePerKgDram": 11560
+        "weightGrams": 250
       }
     }
   },
@@ -3431,7 +3200,6 @@
     "id": 77,
     "base_name": "Сушёные сливы в шоколаде с миндалём",
     "image_path": "/assets/ch76.webp",
-    "price_amd": 2240,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3446,32 +3214,28 @@
           "Packed chocolates with whole dried prunes and almonds, covered with chocolate."
         ],
         "shelfLife": "9 months",
-        "weightGrams": 250,
-        "pricePerKgDram": 8960
+        "weightGrams": 250
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια με ολόκληρα αποξηραμένα δαμάσκηνα και αμύγδαλα, καλυμμένα με σοκολάτα."
         ],
         "shelfLife": "9 μήνες",
-        "weightGrams": 250,
-        "pricePerKgDram": 8960
+        "weightGrams": 250
       },
       "ru": {
         "description": [
           "Упакованные конфеты с целыми сушёными сливами и миндалём, покрытые шоколадом."
         ],
         "shelfLife": "9 месяцев",
-        "weightGrams": 250,
-        "pricePerKgDram": 8960
+        "weightGrams": 250
       },
       "hy": {
         "description": [
           "Փաթեթավորված շոկոլադե կոնֆետներ՝ ամբողջական չորացրած սալորաչրով և նուշով, պատված շոկոլադով։"
         ],
         "shelfLife": "9 ամիս",
-        "weightGrams": 250,
-        "pricePerKgDram": 8960
+        "weightGrams": 250
       }
     }
   },
@@ -3479,7 +3243,6 @@
     "id": 78,
     "base_name": "Ассорти из сухофруктов с орехами в шоколаде",
     "image_path": "/assets/ch77.webp",
-    "price_amd": 3340,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3494,32 +3257,28 @@
           "Packed chocolate covered candies with whole dried fruits and nuts: dried cherry with hazelnut, dried strawberry with hazelnut, dried apricot with pecan nut, dried peach with almond, dried date with pistachio, dried fig with pecan nut, dried prune with almond."
         ],
         "shelfLife": "9 months",
-        "weightGrams": 500,
-        "pricePerKgDram": 6680
+        "weightGrams": 500
       },
       "el": {
         "description": [
           "Συσκευασμένα σοκολατάκια με ολόκληρα αποξηραμένα φρούτα και ξηρούς καρπούς: αποξηραμένο κεράσι με φουντούκι, αποξηραμένη φράουλα με φουντούκι, αποξηραμένο βερίκοκο με πεκάν, αποξηραμένο ροδάκινο με αμύγδαλο, αποξηραμένος χουρμάς με φιστίκι, αποξηραμένο σύκο με πεκάν και αποξηραμένο δαμάσκηνο με αμύγδαλο."
         ],
         "shelfLife": "9 μήνες",
-        "weightGrams": 500,
-        "pricePerKgDram": 6680
+        "weightGrams": 500
       },
       "ru": {
         "description": [
           "Упакованные конфеты в шоколаде с целыми сухофруктами и орехами: сушёная вишня с фундуком, сушёная клубника с фундуком, курага с орехом пекан, сушёный персик с миндалём, финик с фисташкой, сушёный инжир с орехом пекан, чернослив с миндалём."
         ],
         "shelfLife": "9 месяцев",
-        "weightGrams": 500,
-        "pricePerKgDram": 6680
+        "weightGrams": 500
       },
       "hy": {
         "description": [
           "Փաթեթավորված շոկոլադապատ կոնֆետներ՝ ամբողջական չրերով և ընկույզներով․ չորացրած բալ՝ պնդուկով, չորացրած ելակ՝ պնդուկով, չորացրած ծիրան՝ պեկան ընկույզով, չորացրած դեղձ՝ նուշով, չորացրած արմավ՝ պիստակով, չորացրած թուզ՝ պեկան ընկույզով, չորացրած սալորաչիր՝ նուշով։"
         ],
         "shelfLife": "9 ամիս",
-        "weightGrams": 500,
-        "pricePerKgDram": 6680
+        "weightGrams": 500
       }
     }
   },
@@ -3527,7 +3286,6 @@
     "id": 79,
     "base_name": "Ассорти из сухофруктов с орехами в шоколаде",
     "image_path": "/assets/ch78.webp",
-    "price_amd": 3910,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3543,8 +3301,7 @@
         ],
         "shelfLife": "9 months",
         "weightGrams": 390,
-        "piecesPerPack": 21,
-        "pricePerKgDram": 10026
+        "piecesPerPack": 21
       },
       "el": {
         "description": [
@@ -3552,8 +3309,7 @@
         ],
         "shelfLife": "9 μήνες",
         "weightGrams": 390,
-        "piecesPerPack": 21,
-        "pricePerKgDram": 10026
+        "piecesPerPack": 21
       },
       "ru": {
         "description": [
@@ -3561,8 +3317,7 @@
         ],
         "shelfLife": "9 месяцев",
         "weightGrams": 390,
-        "piecesPerPack": 21,
-        "pricePerKgDram": 10026
+        "piecesPerPack": 21
       },
       "hy": {
         "description": [
@@ -3570,8 +3325,7 @@
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 390,
-        "piecesPerPack": 21,
-        "pricePerKgDram": 10026
+        "piecesPerPack": 21
       }
     }
   },
@@ -3579,7 +3333,6 @@
     "id": 80,
     "base_name": "Ассорти из сухофруктов с орехами в шоколаде",
     "image_path": "/assets/ch79.webp",
-    "price_amd": 1820,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3595,8 +3348,7 @@
         ],
         "shelfLife": "9 months",
         "weightGrams": 157,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 11592
+        "piecesPerPack": 9
       },
       "el": {
         "description": [
@@ -3604,8 +3356,7 @@
         ],
         "shelfLife": "9 μήνες",
         "weightGrams": 157,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 11592
+        "piecesPerPack": 9
       },
       "ru": {
         "description": [
@@ -3613,8 +3364,7 @@
         ],
         "shelfLife": "9 месяцев",
         "weightGrams": 157,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 11592
+        "piecesPerPack": 9
       },
       "hy": {
         "description": [
@@ -3622,8 +3372,7 @@
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 157,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 11592
+        "piecesPerPack": 9
       }
     }
   },
@@ -3631,7 +3380,6 @@
     "id": 81,
     "base_name": "Сушёные абрикосы в шоколаде с орехами пекан",
     "image_path": "/assets/ch80.webp",
-    "price_amd": 1570,
     "unit": "шт",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3646,32 +3394,28 @@
           "Chocolates with whole dried apricots and pecan nuts."
         ],
         "shelfLife": "9 months",
-        "weightGrams": 150,
-        "pricePerKgDram": 10467
+        "weightGrams": 150
       },
       "el": {
         "description": [
           "Σοκολατάκια με ολόκληρα αποξηραμένα βερίκοκα και πεκάν."
         ],
         "shelfLife": "9 μήνες",
-        "weightGrams": 150,
-        "pricePerKgDram": 10467
+        "weightGrams": 150
       },
       "ru": {
         "description": [
           "Шоколадные конфеты с целыми сушёными абрикосами и орехами пекан."
         ],
         "shelfLife": "9 месяцев",
-        "weightGrams": 150,
-        "pricePerKgDram": 10467
+        "weightGrams": 150
       },
       "hy": {
         "description": [
           "Շոկոլադե կոնֆետներ՝ ամբողջական չորացրած ծիրանով և պեկան ընկույզով։"
         ],
         "shelfLife": "9 ամիս",
-        "weightGrams": 150,
-        "pricePerKgDram": 10467
+        "weightGrams": 150
       }
     }
   },
@@ -3679,7 +3423,6 @@
     "id": 82,
     "base_name": "Сушёные сливы в шоколаде с миндалём",
     "image_path": "/assets/ch81.webp",
-    "price_amd": 1590,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3695,8 +3438,7 @@
         ],
         "shelfLife": "9 months",
         "weightGrams": 155,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 10258
+        "piecesPerPack": 9
       },
       "el": {
         "description": [
@@ -3704,8 +3446,7 @@
         ],
         "shelfLife": "9 μήνες",
         "weightGrams": 155,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 10258
+        "piecesPerPack": 9
       },
       "ru": {
         "description": [
@@ -3713,8 +3454,7 @@
         ],
         "shelfLife": "9 месяцев",
         "weightGrams": 155,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 10258
+        "piecesPerPack": 9
       },
       "hy": {
         "description": [
@@ -3722,8 +3462,7 @@
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 155,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 10258
+        "piecesPerPack": 9
       }
     }
   },
@@ -3731,7 +3470,6 @@
     "id": 83,
     "base_name": "Сушёные персики в шоколаде с миндалём",
     "image_path": "/assets/ch82.webp",
-    "price_amd": 2050,
     "unit": "шт",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3747,8 +3485,7 @@
         ],
         "shelfLife": "9 months",
         "weightGrams": 230,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 8913
+        "piecesPerPack": 9
       },
       "el": {
         "description": [
@@ -3756,8 +3493,7 @@
         ],
         "shelfLife": "9 μήνες",
         "weightGrams": 230,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 8913
+        "piecesPerPack": 9
       },
       "ru": {
         "description": [
@@ -3765,8 +3501,7 @@
         ],
         "shelfLife": "9 месяцев",
         "weightGrams": 230,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 8913
+        "piecesPerPack": 9
       },
       "hy": {
         "description": [
@@ -3774,8 +3509,7 @@
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 230,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 8913
+        "piecesPerPack": 9
       }
     }
   },
@@ -3783,7 +3517,6 @@
     "id": 84,
     "base_name": "Сушёная вишня в шоколаде с фундуком",
     "image_path": "/assets/ch83.jpg",
-    "price_amd": 2300,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3799,8 +3532,7 @@
         ],
         "shelfLife": "9 months",
         "weightGrams": 170,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 13529
+        "piecesPerPack": 9
       },
       "el": {
         "description": [
@@ -3808,8 +3540,7 @@
         ],
         "shelfLife": "9 μήνες",
         "weightGrams": 170,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 13529
+        "piecesPerPack": 9
       },
       "ru": {
         "description": [
@@ -3817,8 +3548,7 @@
         ],
         "shelfLife": "9 месяцев",
         "weightGrams": 170,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 13529
+        "piecesPerPack": 9
       },
       "hy": {
         "description": [
@@ -3826,8 +3556,7 @@
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 170,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 13529
+        "piecesPerPack": 9
       }
     }
   },
@@ -3835,7 +3564,6 @@
     "id": 85,
     "base_name": "Финики в шоколаде с фисташками",
     "image_path": "/assets/ch84.webp",
-    "price_amd": 1570,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3851,8 +3579,7 @@
         ],
         "shelfLife": "9 months",
         "weightGrams": 190,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 8263
+        "piecesPerPack": 9
       },
       "el": {
         "description": [
@@ -3860,8 +3587,7 @@
         ],
         "shelfLife": "9 μήνες",
         "weightGrams": 190,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 8263
+        "piecesPerPack": 9
       },
       "ru": {
         "description": [
@@ -3869,8 +3595,7 @@
         ],
         "shelfLife": "9 месяцев",
         "weightGrams": 190,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 8263
+        "piecesPerPack": 9
       },
       "hy": {
         "description": [
@@ -3878,8 +3603,7 @@
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 190,
-        "piecesPerPack": 9,
-        "pricePerKgDram": 8263
+        "piecesPerPack": 9
       }
     }
   },
@@ -3887,7 +3611,6 @@
     "id": 86,
     "base_name": "Шоколадное ассорти \"Ереван\"",
     "image_path": "/assets/ch85.webp",
-    "price_amd": 3400,
     "unit": "коробка",
     "category_slug": "assorted-chocolate",
     "names_by_locale": {
@@ -3903,8 +3626,7 @@
         ],
         "shelfLife": "4 months",
         "weightGrams": 440,
-        "piecesPerPack": 40,
-        "pricePerKgDram": 7727
+        "piecesPerPack": 40
       },
       "el": {
         "description": [
@@ -3912,8 +3634,7 @@
         ],
         "shelfLife": "4 μήνες",
         "weightGrams": 440,
-        "piecesPerPack": 40,
-        "pricePerKgDram": 7727
+        "piecesPerPack": 40
       },
       "ru": {
         "description": [
@@ -3921,8 +3642,7 @@
         ],
         "shelfLife": "4 месяца",
         "weightGrams": 440,
-        "piecesPerPack": 40,
-        "pricePerKgDram": 7727
+        "piecesPerPack": 40
       },
       "hy": {
         "description": [
@@ -3930,8 +3650,7 @@
         ],
         "shelfLife": "4 ամիս",
         "weightGrams": 440,
-        "piecesPerPack": 40,
-        "pricePerKgDram": 7727
+        "piecesPerPack": 40
       }
     }
   },
@@ -3939,7 +3658,6 @@
     "id": 87,
     "base_name": "Шоколад молочный",
     "image_path": "/assets/ch86.webp",
-    "price_amd": 110,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -3983,7 +3701,6 @@
     "id": 88,
     "base_name": "Батончик с ирисовой начинкой",
     "image_path": "/assets/ch87.webp",
-    "price_amd": 210,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4027,7 +3744,6 @@
     "id": 89,
     "base_name": "Батончик с ромовой начинкой",
     "image_path": "/assets/ch88.webp",
-    "price_amd": 210,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4071,7 +3787,6 @@
     "id": 90,
     "base_name": "Батончик с шоколадной начинкой",
     "image_path": "/assets/ch89.webp",
-    "price_amd": 210,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4115,7 +3830,6 @@
     "id": 91,
     "base_name": "Батончик с молочной начинкой",
     "image_path": "/assets/ch90.webp",
-    "price_amd": 210,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4159,7 +3873,6 @@
     "id": 92,
     "base_name": "Молочный шоколад \"Джуниор\"",
     "image_path": "/assets/ch91.webp",
-    "price_amd": 297,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4207,7 +3920,6 @@
     "id": 93,
     "base_name": "Молочный шоколад \"Джуниор\"",
     "image_path": "/assets/ch92.webp",
-    "price_amd": 552,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4223,8 +3935,7 @@
         ],
         "shelfLife": "6 months",
         "weightGrams": 100,
-        "piecesPerPack": 8,
-        "pricePerKgDram": 5520
+        "piecesPerPack": 8
       },
       "el": {
         "description": [
@@ -4232,8 +3943,7 @@
         ],
         "shelfLife": "6 μήνες",
         "weightGrams": 100,
-        "piecesPerPack": 8,
-        "pricePerKgDram": 5520
+        "piecesPerPack": 8
       },
       "ru": {
         "description": [
@@ -4241,8 +3951,7 @@
         ],
         "shelfLife": "6 месяцев",
         "weightGrams": 100,
-        "piecesPerPack": 8,
-        "pricePerKgDram": 5520
+        "piecesPerPack": 8
       },
       "hy": {
         "description": [
@@ -4250,8 +3959,7 @@
         ],
         "shelfLife": "6 ամիս",
         "weightGrams": 100,
-        "piecesPerPack": 8,
-        "pricePerKgDram": 5520
+        "piecesPerPack": 8
       }
     }
   },
@@ -4259,7 +3967,6 @@
     "id": 94,
     "base_name": "Молочная шоколадная плитка \"Арарат\"",
     "image_path": "/assets/ch93.webp",
-    "price_amd": 1000,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4274,32 +3981,28 @@
           "Classic milk chocolate bar."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "el": {
         "description": [
           "Κλασική πλάκα σοκολάτας γάλακτος."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "ru": {
         "description": [
           "Классическая плитка молочного шоколада."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "hy": {
         "description": [
           "Կաթնային շոկոլադի դասական սալիկ։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       }
     }
   },
@@ -4307,7 +4010,6 @@
     "id": 95,
     "base_name": "Тёмная шоколадная плитка \"Арарат\"",
     "image_path": "/assets/ch94.webp",
-    "price_amd": 1000,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4322,32 +4024,28 @@
           "Dark chocolate bar with 51.65% cocoa product content."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "el": {
         "description": [
           "Πλάκα μαύρης σοκολάτας με περιεκτικότητα σε προϊόντα κακάο 51,65%."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "ru": {
         "description": [
           "Плитка тёмного шоколада с содержанием продуктов какао 51,65%."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "hy": {
         "description": [
           "Մուգ շոկոլադե սալիկ՝ կակաոյի արտադրանքի 51,65% պարունակությամբ։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       }
     }
   },
@@ -4355,7 +4053,6 @@
     "id": 96,
     "base_name": "Тёмный шоколад с миндалём \"Арарат\"",
     "image_path": "/assets/ch95.webp",
-    "price_amd": 1000,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4370,32 +4067,28 @@
           "Dark chocolate bar 60% with crushed almonds."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "el": {
         "description": [
           "Πλάκα μαύρης σοκολάτας 60% με θρυμματισμένα αμύγδαλα."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "ru": {
         "description": [
           "Плитка тёмного шоколада 60% с дроблёным миндалём."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "hy": {
         "description": [
           "Մուգ շոկոլադի 60% սալիկ՝ մանրացված նուշով։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       }
     }
   },
@@ -4403,7 +4096,6 @@
     "id": 97,
     "base_name": "Молочный шоколад с фисташками \"Арарат\"",
     "image_path": "/assets/ch96.webp",
-    "price_amd": 1000,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4418,32 +4110,28 @@
           "Milk chocolate bar with crushed pistachios."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "el": {
         "description": [
           "Πλάκα σοκολάτας γάλακτος με θρυμματισμένα φιστίκια."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "ru": {
         "description": [
           "Плитка молочного шоколада с дроблёными фисташками."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "hy": {
         "description": [
           "Կաթնային շոկոլադե սալիկ՝ մանրացված պիստակով։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       }
     }
   },
@@ -4451,7 +4139,6 @@
     "id": 98,
     "base_name": "Молочный шоколад с фундуком \"Арарат\"",
     "image_path": "/assets/ch97.webp",
-    "price_amd": 1000,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4466,32 +4153,28 @@
           "Milk chocolate bar with crushed hazelnuts."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "el": {
         "description": [
           "Πλάκα σοκολάτας γάλακτος με θρυμματισμένα φουντούκια."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "ru": {
         "description": [
           "Плитка молочного шоколада с дроблёным фундуком."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       },
       "hy": {
         "description": [
           "Կաթնային շոկոլադե սալիկ՝ մանրացված պնդուկով։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 90,
-        "pricePerKgDram": 11111
+        "weightGrams": 90
       }
     }
   },
@@ -4499,7 +4182,6 @@
     "id": 99,
     "base_name": "Шоколадная плитка \"Молочный шоколад\"",
     "image_path": "/assets/ch98.webp",
-    "price_amd": 650,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4514,32 +4196,28 @@
           "Classic milk chocolate bar."
         ],
         "shelfLife": "6 months",
-        "weightGrams": 90,
-        "pricePerKgDram": 7222
+        "weightGrams": 90
       },
       "el": {
         "description": [
           "Κλασική πλάκα σοκολάτας γάλακτος."
         ],
         "shelfLife": "6 μήνες",
-        "weightGrams": 90,
-        "pricePerKgDram": 7222
+        "weightGrams": 90
       },
       "ru": {
         "description": [
           "Классическая плитка молочного шоколада."
         ],
         "shelfLife": "6 месяцев",
-        "weightGrams": 90,
-        "pricePerKgDram": 7222
+        "weightGrams": 90
       },
       "hy": {
         "description": [
           "Կաթնային շոկոլադի դասական սալիկ։"
         ],
         "shelfLife": "6 ամիս",
-        "weightGrams": 90,
-        "pricePerKgDram": 7222
+        "weightGrams": 90
       }
     }
   },
@@ -4547,7 +4225,6 @@
     "id": 100,
     "base_name": "Шоколадная плитка \"Тёмный шоколад 60%\"",
     "image_path": "/assets/ch99.webp",
-    "price_amd": 654,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4562,32 +4239,28 @@
           "Dark chocolate bar with content of cocoa products not less than 60%."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 90,
-        "pricePerKgDram": 7267
+        "weightGrams": 90
       },
       "el": {
         "description": [
           "Πλάκα μαύρης σοκολάτας με περιεκτικότητα σε προϊόντα κακάο τουλάχιστον 60%."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 90,
-        "pricePerKgDram": 7267
+        "weightGrams": 90
       },
       "ru": {
         "description": [
           "Плитка тёмного шоколада с содержанием продуктов какао не менее 60%."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 90,
-        "pricePerKgDram": 7267
+        "weightGrams": 90
       },
       "hy": {
         "description": [
           "Մուգ շոկոլադե սալիկ՝ կակաոյի արտադրանքի առնվազն 60% պարունակությամբ։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 90,
-        "pricePerKgDram": 7267
+        "weightGrams": 90
       }
     }
   },
@@ -4595,7 +4268,7 @@
     "id": 101,
     "base_name": "Молочные драже \"Paw Patrol\"",
     "image_path": "/assets/ch100.webp",
-    "price_amd": 250,
+    "favorite": true,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4639,7 +4312,6 @@
     "id": 102,
     "base_name": "Драже с фундуком \"Paw Patrol\"",
     "image_path": "/assets/ch101.webp",
-    "price_amd": 250,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4683,7 +4355,6 @@
     "id": 103,
     "base_name": "Драже с арахисом \"Paw Patrol\"",
     "image_path": "/assets/ch102.webp",
-    "price_amd": 250,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4727,7 +4398,6 @@
     "id": 104,
     "base_name": "Молочное драже \"Panda\"",
     "image_path": "/assets/ch103.jpg",
-    "price_amd": 270,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4771,7 +4441,6 @@
     "id": 105,
     "base_name": "Шоколадное драже \"Медвежонок\"",
     "image_path": "/assets/ch104.webp",
-    "price_amd": 270,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4815,7 +4484,6 @@
     "id": 106,
     "base_name": "Драже с фундуком \"Белочка\"",
     "image_path": "/assets/ch105.webp",
-    "price_amd": 270,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4859,7 +4527,6 @@
     "id": 107,
     "base_name": "Драже с арахисом \"Зайчик\"",
     "image_path": "/assets/ch106.webp",
-    "price_amd": 270,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4903,7 +4570,6 @@
     "id": 108,
     "base_name": "Сливочное драже \"Коровка\"",
     "image_path": "/assets/ch107.webp",
-    "price_amd": 229,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4947,7 +4613,6 @@
     "id": 109,
     "base_name": "Драже \"Салют\"",
     "image_path": "/assets/ch108.webp",
-    "price_amd": 430,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4962,32 +4627,28 @@
           "Dragee with crispy corn, coated with white glaze and starch syrup of different colours and flavours."
         ],
         "shelfLife": "12 months",
-        "weightGrams": 90,
-        "pricePerKgDram": 4778
+        "weightGrams": 90
       },
       "el": {
         "description": [
           "Κουφέτα με τραγανό καλαμπόκι, καλυμμένα με λευκό γλάσο και σιρόπι αμύλου σε διάφορα χρώματα και γεύσεις."
         ],
         "shelfLife": "12 μήνες",
-        "weightGrams": 90,
-        "pricePerKgDram": 4778
+        "weightGrams": 90
       },
       "ru": {
         "description": [
           "Драже с хрустящей кукурузой, покрытое белой глазурью и крахмальной патокой разных цветов и вкусов."
         ],
         "shelfLife": "12 месяцев",
-        "weightGrams": 90,
-        "pricePerKgDram": 4778
+        "weightGrams": 90
       },
       "hy": {
         "description": [
           "Դրաժե՝ խրթխրթան եգիպտացորենով, պատված սպիտակ ջնարակով և տարբեր գույների ու համերի օսլայի օշարակով։"
         ],
         "shelfLife": "12 ամիս",
-        "weightGrams": 90,
-        "pricePerKgDram": 4778
+        "weightGrams": 90
       }
     }
   },
@@ -4995,7 +4656,6 @@
     "id": 110,
     "base_name": "Драже в шоколаде \"Коллекция\"",
     "image_path": "/assets/ch109.webp",
-    "price_amd": 4640,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -5010,32 +4670,28 @@
           "Chocolate dragee collection with whole hazelnuts, peanuts, almonds, walnuts, macadamia, raisins, nougat with kozinak, nougat with coconut, and \"Almond Piquant\"."
         ],
         "shelfLife": "6 months",
-        "weightGrams": 570,
-        "pricePerKgDram": 8140
+        "weightGrams": 570
       },
       "el": {
         "description": [
           "Συλλογή από κουφέτα σοκολάτας με ολόκληρα φουντούκια, αράπικα φιστίκια, αμύγδαλα, καρύδια, μακαντάμια, σταφίδες, μαντολάτο με κοζινάκ, μαντολάτο με καρύδα και \"Πικάντικο αμύγδαλο\"."
         ],
         "shelfLife": "6 μήνες",
-        "weightGrams": 570,
-        "pricePerKgDram": 8140
+        "weightGrams": 570
       },
       "ru": {
         "description": [
           "Коллекция драже в шоколаде: с цельным фундуком, арахисом, миндалём, грецкими орехами, макадамией, изюмом, нугой с козинаком, нугой с кокосом и \"Миндаль пикантный\"."
         ],
         "shelfLife": "6 месяцев",
-        "weightGrams": 570,
-        "pricePerKgDram": 8140
+        "weightGrams": 570
       },
       "hy": {
         "description": [
           "Շոկոլադապատ դրաժեների հավաքածու՝ ամբողջական պնդուկով, գետնանուշով, նուշով, ընկույզով, մակադամիայով, չամիչով, կոզինախով նուգայով, կոկոսով նուգայով և \"Կծու նուշով\"։"
         ],
         "shelfLife": "6 ամիս",
-        "weightGrams": 570,
-        "pricePerKgDram": 8140
+        "weightGrams": 570
       }
     }
   },
@@ -5043,7 +4699,6 @@
     "id": 111,
     "base_name": "Миндаль в шоколаде",
     "image_path": "/assets/ch110.webp",
-    "price_amd": 1440,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -5058,32 +4713,28 @@
           "Dragee with whole almonds in chocolate."
         ],
         "shelfLife": "5 months",
-        "weightGrams": 200,
-        "pricePerKgDram": 7200
+        "weightGrams": 200
       },
       "el": {
         "description": [
           "Κουφέτο με ολόκληρα αμύγδαλα σε σοκολάτα."
         ],
         "shelfLife": "5 μήνες",
-        "weightGrams": 200,
-        "pricePerKgDram": 7200
+        "weightGrams": 200
       },
       "ru": {
         "description": [
           "Драже с цельным миндалём в шоколаде."
         ],
         "shelfLife": "5 месяцев",
-        "weightGrams": 200,
-        "pricePerKgDram": 7200
+        "weightGrams": 200
       },
       "hy": {
         "description": [
           "Դրաժե՝ ամբողջական նուշով շոկոլադի մեջ։"
         ],
         "shelfLife": "5 ամիս",
-        "weightGrams": 200,
-        "pricePerKgDram": 7200
+        "weightGrams": 200
       }
     }
   },
@@ -5091,7 +4742,6 @@
     "id": 112,
     "base_name": "Арахис в шоколаде",
     "image_path": "/assets/ch111.webp",
-    "price_amd": 880,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -5106,32 +4756,28 @@
           "Dragee with whole peanuts in chocolate."
         ],
         "shelfLife": "5 months",
-        "weightGrams": 200,
-        "pricePerKgDram": 4400
+        "weightGrams": 200
       },
       "el": {
         "description": [
           "Κουφέτο με ολόκληρα αράπικα φιστίκια σε σοκολάτα."
         ],
         "shelfLife": "5 μήνες",
-        "weightGrams": 200,
-        "pricePerKgDram": 4400
+        "weightGrams": 200
       },
       "ru": {
         "description": [
           "Драже с цельным арахисом в шоколаде."
         ],
         "shelfLife": "5 месяцев",
-        "weightGrams": 200,
-        "pricePerKgDram": 4400
+        "weightGrams": 200
       },
       "hy": {
         "description": [
           "Դրաժե՝ ամբողջական գետնանուշով շոկոլադի մեջ։"
         ],
         "shelfLife": "5 ամիս",
-        "weightGrams": 200,
-        "pricePerKgDram": 4400
+        "weightGrams": 200
       }
     }
   },
@@ -5139,7 +4785,6 @@
     "id": 113,
     "base_name": "Фундук в шоколаде",
     "image_path": "/assets/ch112.webp",
-    "price_amd": 1560,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -5154,32 +4799,28 @@
           "Dragee with whole hazelnuts in chocolate."
         ],
         "shelfLife": "5 months",
-        "weightGrams": 180,
-        "pricePerKgDram": 8667
+        "weightGrams": 180
       },
       "el": {
         "description": [
           "Κουφέτο με ολόκληρα φουντούκια σε σοκολάτα."
         ],
         "shelfLife": "5 μήνες",
-        "weightGrams": 180,
-        "pricePerKgDram": 8667
+        "weightGrams": 180
       },
       "ru": {
         "description": [
           "Драже с цельным фундуком в шоколаде."
         ],
         "shelfLife": "5 месяцев",
-        "weightGrams": 180,
-        "pricePerKgDram": 8667
+        "weightGrams": 180
       },
       "hy": {
         "description": [
           "Դրաժե՝ ամբողջական պնդուկով շոկոլադի մեջ։"
         ],
         "shelfLife": "5 ամիս",
-        "weightGrams": 180,
-        "pricePerKgDram": 8667
+        "weightGrams": 180
       }
     }
   },
@@ -5187,7 +4828,6 @@
     "id": 114,
     "base_name": "Бисквитные панкейки \"Фрутопия\" с малиновой начинкой",
     "image_path": "/assets/ch113.webp",
-    "price_amd": 100,
     "unit": "шт",
     "category_slug": "biscuits",
     "names_by_locale": {
@@ -5231,7 +4871,6 @@
     "id": 115,
     "base_name": "Бисквитные панкейки \"Фрутопия\" с апельсиновой начинкой",
     "image_path": "/assets/ch114.webp",
-    "price_amd": 100,
     "unit": "шт",
     "category_slug": "biscuits",
     "names_by_locale": {
@@ -5275,7 +4914,6 @@
     "id": 116,
     "base_name": "Бисквитные панкейки \"Фрутопия\" с клубничной начинкой",
     "image_path": "/assets/ch115.webp",
-    "price_amd": 100,
     "unit": "шт",
     "category_slug": "biscuits",
     "names_by_locale": {
@@ -5319,7 +4957,6 @@
     "id": 117,
     "base_name": "Печенье \"Чоко Бургер\"",
     "image_path": "/assets/ch116.webp",
-    "price_amd": 100,
     "unit": "шт",
     "category_slug": "biscuits",
     "names_by_locale": {
@@ -5363,7 +5000,6 @@
     "id": 118,
     "base_name": "Печенье \"Чоко Бургер\"",
     "image_path": "/assets/ch117.webp",
-    "price_amd": 630,
     "unit": "коробка",
     "category_slug": "biscuits",
     "names_by_locale": {
@@ -5379,8 +5015,7 @@
         ],
         "shelfLife": "45 days",
         "weightGrams": 180,
-        "piecesPerPack": 6,
-        "pricePerKgDram": 3500
+        "piecesPerPack": 6
       },
       "el": {
         "description": [
@@ -5388,8 +5023,7 @@
         ],
         "shelfLife": "45 ημέρες",
         "weightGrams": 180,
-        "piecesPerPack": 6,
-        "pricePerKgDram": 3500
+        "piecesPerPack": 6
       },
       "ru": {
         "description": [
@@ -5397,8 +5031,7 @@
         ],
         "shelfLife": "45 дней",
         "weightGrams": 180,
-        "piecesPerPack": 6,
-        "pricePerKgDram": 3500
+        "piecesPerPack": 6
       },
       "hy": {
         "description": [
@@ -5406,8 +5039,7 @@
         ],
         "shelfLife": "45 օր",
         "weightGrams": 180,
-        "piecesPerPack": 6,
-        "pricePerKgDram": 3500
+        "piecesPerPack": 6
       }
     }
   },
@@ -5415,7 +5047,6 @@
     "id": 119,
     "base_name": "Панкейки \"Смайлик\" с ирисовой начинкой",
     "image_path": "/assets/ch118.webp",
-    "price_amd": 720,
     "unit": "шт",
     "category_slug": "biscuits",
     "names_by_locale": {
@@ -5431,8 +5062,7 @@
         ],
         "shelfLife": "3 months",
         "weightGrams": 200,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 3600
+        "piecesPerPack": 5
       },
       "el": {
         "description": [
@@ -5440,8 +5070,7 @@
         ],
         "shelfLife": "3 μήνες",
         "weightGrams": 200,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 3600
+        "piecesPerPack": 5
       },
       "ru": {
         "description": [
@@ -5449,8 +5078,7 @@
         ],
         "shelfLife": "3 месяца",
         "weightGrams": 200,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 3600
+        "piecesPerPack": 5
       },
       "hy": {
         "description": [
@@ -5458,8 +5086,7 @@
         ],
         "shelfLife": "3 ամիս",
         "weightGrams": 200,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 3600
+        "piecesPerPack": 5
       }
     }
   },
@@ -5467,7 +5094,6 @@
     "id": 120,
     "base_name": "Панкейки \"Смайлик\" с молочной начинкой",
     "image_path": "/assets/ch119.webp",
-    "price_amd": 720,
     "unit": "шт",
     "category_slug": "biscuits",
     "names_by_locale": {
@@ -5483,8 +5109,7 @@
         ],
         "shelfLife": "3 months",
         "weightGrams": 200,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 3600
+        "piecesPerPack": 5
       },
       "el": {
         "description": [
@@ -5492,8 +5117,7 @@
         ],
         "shelfLife": "3 μήνες",
         "weightGrams": 200,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 3600
+        "piecesPerPack": 5
       },
       "ru": {
         "description": [
@@ -5501,8 +5125,7 @@
         ],
         "shelfLife": "3 месяца",
         "weightGrams": 200,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 3600
+        "piecesPerPack": 5
       },
       "hy": {
         "description": [
@@ -5510,8 +5133,7 @@
         ],
         "shelfLife": "3 ամիս",
         "weightGrams": 200,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 3600
+        "piecesPerPack": 5
       }
     }
   },
@@ -5519,7 +5141,6 @@
     "id": 121,
     "base_name": "Панкейки \"Смайлик\" с шоколадной начинкой",
     "image_path": "/assets/ch120.webp",
-    "price_amd": 720,
     "unit": "шт",
     "category_slug": "biscuits",
     "names_by_locale": {
@@ -5535,8 +5156,7 @@
         ],
         "shelfLife": "3 months",
         "weightGrams": 200,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 3600
+        "piecesPerPack": 5
       },
       "el": {
         "description": [
@@ -5544,8 +5164,7 @@
         ],
         "shelfLife": "3 μήνες",
         "weightGrams": 200,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 3600
+        "piecesPerPack": 5
       },
       "ru": {
         "description": [
@@ -5553,8 +5172,7 @@
         ],
         "shelfLife": "3 месяца",
         "weightGrams": 200,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 3600
+        "piecesPerPack": 5
       },
       "hy": {
         "description": [
@@ -5562,8 +5180,7 @@
         ],
         "shelfLife": "3 ամիս",
         "weightGrams": 200,
-        "piecesPerPack": 5,
-        "pricePerKgDram": 3600
+        "piecesPerPack": 5
       }
     }
   },
@@ -5571,7 +5188,6 @@
     "id": 122,
     "base_name": "Печенье \"Опера\"",
     "image_path": "/assets/ch121.webp",
-    "price_amd": 180,
     "unit": "шт",
     "category_slug": "biscuits",
     "names_by_locale": {
@@ -5615,7 +5231,6 @@
     "id": 123,
     "base_name": "Шоколадное печенье \"Опера\"",
     "image_path": "/assets/ch122.webp",
-    "price_amd": 180,
     "unit": "шт",
     "category_slug": "biscuits",
     "names_by_locale": {
@@ -5659,7 +5274,6 @@
     "id": 124,
     "base_name": "Печенье \"Глобус\"",
     "image_path": "/assets/ch123.webp",
-    "price_amd": 2100,
     "unit": "кг",
     "category_slug": "biscuits",
     "names_by_locale": {
@@ -5703,7 +5317,6 @@
     "id": 10000,
     "base_name": "Cigaronne King Size Black",
     "image_path": "https://be.cigaronne.com/uploads/KS_black_mob_cc98f5b9b6.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -5734,7 +5347,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/KS_black_mob_cc98f5b9b6.png",
-      "priceDram": null,
       "tarMg": "4",
       "nicotineMg": "0.4",
       "carbonMonoxideMg": "4"
@@ -5744,7 +5356,6 @@
     "id": 10001,
     "base_name": "Cigaronne King Size White",
     "image_path": "https://be.cigaronne.com/uploads/KS_White_mob_c78d41e458.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -5775,7 +5386,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/KS_White_mob_c78d41e458.png",
-      "priceDram": null,
       "tarMg": "3",
       "nicotineMg": "0.3",
       "carbonMonoxideMg": "3"
@@ -5785,7 +5395,6 @@
     "id": 10002,
     "base_name": "Cigaronne Compatto Black",
     "image_path": "https://be.cigaronne.com/uploads/compato_black_02_7bf02b8481.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -5816,7 +5425,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/compato_black_02_7bf02b8481.png",
-      "priceDram": null,
       "tarMg": "6",
       "nicotineMg": "0.5",
       "carbonMonoxideMg": "6"
@@ -5826,7 +5434,6 @@
     "id": 10003,
     "base_name": "Cigaronne Compatto White",
     "image_path": "https://be.cigaronne.com/uploads/compato_white_03_007c86a019.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -5857,7 +5464,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/compato_white_03_007c86a019.png",
-      "priceDram": null,
       "tarMg": "5",
       "nicotineMg": "0.4",
       "carbonMonoxideMg": "5"
@@ -5867,7 +5473,6 @@
     "id": 10004,
     "base_name": "Cigaronne Ultra Slims Black",
     "image_path": "https://be.cigaronne.com/uploads/ultra_black_02_33325a2908.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -5898,7 +5503,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/ultra_black_02_33325a2908.png",
-      "priceDram": null,
       "tarMg": "4",
       "nicotineMg": "0.3",
       "carbonMonoxideMg": "4"
@@ -5908,7 +5512,6 @@
     "id": 10005,
     "base_name": "Cigaronne Ultra Slims White",
     "image_path": "https://be.cigaronne.com/uploads/ultra_white_02_ce4fbcb97f.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -5939,7 +5542,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/ultra_white_02_ce4fbcb97f.png",
-      "priceDram": null,
       "tarMg": "3",
       "nicotineMg": "0.2",
       "carbonMonoxideMg": "3"
@@ -5949,7 +5551,6 @@
     "id": 10006,
     "base_name": "Cigaronne Super Slims Black",
     "image_path": "https://be.cigaronne.com/uploads/SS_black_01_e9f5028de7.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -5980,7 +5581,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/SS_black_01_e9f5028de7.png",
-      "priceDram": null,
       "tarMg": "4",
       "nicotineMg": "0.4",
       "carbonMonoxideMg": "4"
@@ -5990,7 +5590,6 @@
     "id": 10007,
     "base_name": "Cigaronne Super Slims White",
     "image_path": "https://be.cigaronne.com/uploads/SS_white02_213be60630.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6021,7 +5620,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/SS_white02_213be60630.png",
-      "priceDram": null,
       "tarMg": "3",
       "nicotineMg": "0.3",
       "carbonMonoxideMg": "3"
@@ -6031,7 +5629,6 @@
     "id": 10008,
     "base_name": "Cigaronne Super Slims Menthol",
     "image_path": "https://be.cigaronne.com/uploads/SS_menthol_02_7b107c5fe0.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6062,7 +5659,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/SS_menthol_02_7b107c5fe0.png",
-      "priceDram": null,
       "tarMg": "6",
       "nicotineMg": "0.6",
       "carbonMonoxideMg": "6"
@@ -6072,7 +5668,6 @@
     "id": 10009,
     "base_name": "Cigaronne Legend Black",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_16_a31a3ba06f.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6103,7 +5698,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/Artboard_16_a31a3ba06f.png",
-      "priceDram": null,
       "tarMg": "8",
       "nicotineMg": "0.8",
       "carbonMonoxideMg": "8"
@@ -6113,7 +5707,6 @@
     "id": 10010,
     "base_name": "Cigaronne Legend White",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_16_1_e1b38dd7f4.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6144,7 +5737,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/Artboard_16_1_e1b38dd7f4.png",
-      "priceDram": null,
       "tarMg": "5",
       "nicotineMg": "0.5",
       "carbonMonoxideMg": "5"
@@ -6154,7 +5746,6 @@
     "id": 10011,
     "base_name": "Cigaronne Big Boss",
     "image_path": "https://be.cigaronne.com/uploads/listing_l_BB_03_web_39711cf87b.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6185,7 +5776,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/listing_l_BB_03_web_39711cf87b.png",
-      "priceDram": null,
       "tarMg": "7",
       "nicotineMg": "0.7",
       "carbonMonoxideMg": "7"
@@ -6195,7 +5785,6 @@
     "id": 10012,
     "base_name": "Cigaronne Phantom",
     "image_path": "https://be.cigaronne.com/uploads/listing_phantom_02_web_ac3f54b860.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6226,7 +5815,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/listing_phantom_02_web_ac3f54b860.png",
-      "priceDram": null,
       "tarMg": "5",
       "nicotineMg": "0.5",
       "carbonMonoxideMg": "5"
@@ -6236,7 +5824,6 @@
     "id": 10013,
     "base_name": "Cigaronne Royal Slims Black",
     "image_path": "https://be.cigaronne.com/uploads/RSB_02_6229802673.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6267,7 +5854,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/RSB_02_6229802673.png",
-      "priceDram": null,
       "tarMg": "4",
       "nicotineMg": "0.4",
       "carbonMonoxideMg": "4"
@@ -6277,7 +5863,6 @@
     "id": 10014,
     "base_name": "Cigaronne Royal Slims White",
     "image_path": "https://be.cigaronne.com/uploads/RSW_02_1cb3347040.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6308,7 +5893,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/RSW_02_1cb3347040.png",
-      "priceDram": null,
       "tarMg": "3",
       "nicotineMg": "0.2",
       "carbonMonoxideMg": "3"
@@ -6318,7 +5902,6 @@
     "id": 10015,
     "base_name": "Cigaronne Royal Slims Menthol",
     "image_path": "https://be.cigaronne.com/uploads/RSM_02_9e58115cfb.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6349,7 +5932,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/RSM_02_9e58115cfb.png",
-      "priceDram": null,
       "tarMg": "6",
       "nicotineMg": "0.6",
       "carbonMonoxideMg": "7"
@@ -6359,7 +5941,6 @@
     "id": 10016,
     "base_name": "Cigaronne Magnet",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_14_7cb454f6fe.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6390,7 +5971,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/Artboard_14_7cb454f6fe.png",
-      "priceDram": null,
       "tarMg": "6",
       "nicotineMg": "0.5",
       "carbonMonoxideMg": "5"
@@ -6400,7 +5980,6 @@
     "id": 10017,
     "base_name": "Cigaronne Magnet Beige",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_13_48d7f828bc.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6431,7 +6010,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/Artboard_13_48d7f828bc.png",
-      "priceDram": null,
       "tarMg": "5",
       "nicotineMg": "0.5",
       "carbonMonoxideMg": "5"
@@ -6441,7 +6019,6 @@
     "id": 10018,
     "base_name": "Cigaronne Magnet Menthol",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_12_d3fd128ec9.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6472,7 +6049,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/Artboard_12_d3fd128ec9.png",
-      "priceDram": null,
       "tarMg": "5",
       "nicotineMg": "0.5",
       "carbonMonoxideMg": "4"
@@ -6482,7 +6058,6 @@
     "id": 10019,
     "base_name": "Cigaronne Tattoo Cherry King Size",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_5_74ff60a4b4.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6513,7 +6088,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/Artboard_5_74ff60a4b4.png",
-      "priceDram": null,
       "tarMg": "9",
       "nicotineMg": "0.8"
     }
@@ -6522,7 +6096,6 @@
     "id": 10020,
     "base_name": "Cigaronne Tattoo Cherry Slims",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_4_1ff8797eb9.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6553,7 +6126,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/Artboard_4_1ff8797eb9.png",
-      "priceDram": null,
       "tarMg": "8",
       "nicotineMg": "0.8"
     }
@@ -6562,7 +6134,6 @@
     "id": 10021,
     "base_name": "Cigaronne Tattoo Chocolate King Size",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_7_74379f2cf8.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6593,7 +6164,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/Artboard_7_74379f2cf8.png",
-      "priceDram": null,
       "tarMg": "9",
       "nicotineMg": "0.8"
     }
@@ -6602,7 +6172,6 @@
     "id": 10022,
     "base_name": "Cigaronne Tattoo Chocolate Slims",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_6_0b0e9ff2a1.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6633,7 +6202,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/Artboard_6_0b0e9ff2a1.png",
-      "priceDram": null,
       "tarMg": "8",
       "nicotineMg": "0.8"
     }
@@ -6642,7 +6210,6 @@
     "id": 10023,
     "base_name": "Cigaronne Tattoo Vanilla King Size",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_9_af8ca3ab4f.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6673,7 +6240,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/Artboard_9_af8ca3ab4f.png",
-      "priceDram": null,
       "tarMg": "9",
       "nicotineMg": "0.8"
     }
@@ -6682,7 +6248,6 @@
     "id": 10024,
     "base_name": "Cigaronne Tattoo Vanilla Slims",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_8_08bb1e4639.png",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6713,7 +6278,6 @@
       },
       "brand": "Cigaronne",
       "image": "https://be.cigaronne.com/uploads/Artboard_8_08bb1e4639.png",
-      "priceDram": null,
       "tarMg": "8-9",
       "nicotineMg": "0.8"
     }
@@ -6722,7 +6286,6 @@
     "id": 10025,
     "base_name": "Cigaronne Center Compatto Red",
     "image_path": "/assets/cigaronne-center-compatto-red.webp",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6747,7 +6310,6 @@
       },
       "brand": "Cigaronne",
       "image": "/assets/cigaronne-center-compatto-red.webp",
-      "priceDram": null,
       "tarMg": "7",
       "nicotineMg": "0.6",
       "carbonMonoxideMg": "7"
@@ -6757,7 +6319,6 @@
     "id": 10026,
     "base_name": "Cigaronne Center Compatto Blue",
     "image_path": "/assets/cigaronne-center-compatto-blue.webp",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6782,7 +6343,6 @@
       },
       "brand": "Cigaronne",
       "image": "/assets/cigaronne-center-compatto-blue.webp",
-      "priceDram": null,
       "tarMg": "5",
       "nicotineMg": "0.5",
       "carbonMonoxideMg": "5"
@@ -6792,7 +6352,6 @@
     "id": 10027,
     "base_name": "Cigaronne Center Compatto Black",
     "image_path": "/assets/cigaronne-center-compatto-black.webp",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6817,7 +6376,6 @@
       },
       "brand": "Cigaronne",
       "image": "/assets/cigaronne-center-compatto-black.webp",
-      "priceDram": null,
       "tarMg": "8",
       "nicotineMg": "0.7",
       "carbonMonoxideMg": "8"
@@ -6827,7 +6385,6 @@
     "id": 10028,
     "base_name": "Cigaronne Center King Size Red",
     "image_path": "/assets/cigaronne-center-king-size-red-pack.webp",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6858,7 +6415,6 @@
       },
       "brand": "Cigaronne",
       "image": "/assets/cigaronne-center-king-size-red-pack.webp",
-      "priceDram": null,
       "tarMg": "7",
       "nicotineMg": "0.6",
       "carbonMonoxideMg": "7"
@@ -6868,7 +6424,6 @@
     "id": 10029,
     "base_name": "Cigaronne Center King Size Blue",
     "image_path": "/assets/cigaronne-center-king-size-blue-pack.webp",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6899,7 +6454,6 @@
       },
       "brand": "Cigaronne",
       "image": "/assets/cigaronne-center-king-size-blue-pack.webp",
-      "priceDram": null,
       "tarMg": "5",
       "nicotineMg": "0.5",
       "carbonMonoxideMg": "5"
@@ -6909,7 +6463,6 @@
     "id": 10030,
     "base_name": "Cigaronne Center King Size Black",
     "image_path": "/assets/cigaronne-center-king-size-black-pack.webp",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6940,7 +6493,6 @@
       },
       "brand": "Cigaronne",
       "image": "/assets/cigaronne-center-king-size-black-pack.webp",
-      "priceDram": null,
       "tarMg": "9",
       "nicotineMg": "0.8",
       "carbonMonoxideMg": "9"
@@ -6950,7 +6502,6 @@
     "id": 10031,
     "base_name": "Cigaronne Center Ultra Slims Red",
     "image_path": "/assets/cigaronne-center-ultra-slims-red.webp",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6975,7 +6526,6 @@
       },
       "brand": "Cigaronne",
       "image": "/assets/cigaronne-center-ultra-slims-red.webp",
-      "priceDram": null,
       "tarMg": "4",
       "nicotineMg": "0.4",
       "carbonMonoxideMg": "4"
@@ -6985,7 +6535,6 @@
     "id": 10032,
     "base_name": "Cigaronne Center Ultra Slims Blue",
     "image_path": "/assets/cigaronne-center-ultra-slims-blue.webp",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -7010,7 +6559,6 @@
       },
       "brand": "Cigaronne",
       "image": "/assets/cigaronne-center-ultra-slims-blue.webp",
-      "priceDram": null,
       "tarMg": "3",
       "nicotineMg": "0.3",
       "carbonMonoxideMg": "3"
@@ -7020,7 +6568,6 @@
     "id": 10033,
     "base_name": "Cigaronne Center Ultra Slims Black",
     "image_path": "/assets/cigaronne-center-ultra-slims-black.webp",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -7045,7 +6592,6 @@
       },
       "brand": "Cigaronne",
       "image": "/assets/cigaronne-center-ultra-slims-black.webp",
-      "priceDram": null,
       "tarMg": "5",
       "nicotineMg": "0.5",
       "carbonMonoxideMg": "5"
@@ -7055,7 +6601,6 @@
     "id": 10034,
     "base_name": "Cigaronne Center Super Slims Red",
     "image_path": "/assets/cigaronne-center-super-slims-red.webp",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -7080,7 +6625,6 @@
       },
       "brand": "Cigaronne",
       "image": "/assets/cigaronne-center-super-slims-red.webp",
-      "priceDram": null,
       "tarMg": "5",
       "nicotineMg": "0.5",
       "carbonMonoxideMg": "4"
@@ -7090,7 +6634,6 @@
     "id": 10035,
     "base_name": "Cigaronne Center Super Slims Blue",
     "image_path": "/assets/cigaronne-center-super-slims-blue.webp",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -7115,7 +6658,6 @@
       },
       "brand": "Cigaronne",
       "image": "/assets/cigaronne-center-super-slims-blue.webp",
-      "priceDram": null,
       "tarMg": "4",
       "nicotineMg": "0.4",
       "carbonMonoxideMg": "4"
@@ -7125,7 +6667,6 @@
     "id": 10036,
     "base_name": "Cigaronne Center Super Slims Black",
     "image_path": "/assets/cigaronne-center-super-slims-black.webp",
-    "price_amd": 0,
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -7150,7 +6691,6 @@
       },
       "brand": "Cigaronne",
       "image": "/assets/cigaronne-center-super-slims-black.webp",
-      "priceDram": null,
       "tarMg": "8",
       "nicotineMg": "0.8",
       "carbonMonoxideMg": "7"
