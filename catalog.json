@@ -4356,6 +4356,7 @@
     "id": 103,
     "base_name": "Драже с арахисом \"Paw Patrol\"",
     "image_path": "/assets/ch102.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4399,6 +4400,7 @@
     "id": 104,
     "base_name": "Молочное драже \"Panda\"",
     "image_path": "/assets/ch103.jpg",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4442,6 +4444,7 @@
     "id": 105,
     "base_name": "Шоколадное драже \"Медвежонок\"",
     "image_path": "/assets/ch104.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4485,6 +4488,7 @@
     "id": 106,
     "base_name": "Драже с фундуком \"Белочка\"",
     "image_path": "/assets/ch105.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4528,6 +4532,7 @@
     "id": 107,
     "base_name": "Драже с арахисом \"Зайчик\"",
     "image_path": "/assets/ch106.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4571,6 +4576,7 @@
     "id": 108,
     "base_name": "Сливочное драже \"Коровка\"",
     "image_path": "/assets/ch107.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
