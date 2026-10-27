@@ -4312,6 +4312,7 @@
     "id": 102,
     "base_name": "Драже с фундуком \"Paw Patrol\"",
     "image_path": "/assets/ch101.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -5321,9 +5322,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne King Size Black",
-      "el": "Cigaronne King Size Black",
-      "ru": "Cigaronne King Size Black",
-      "hy": "Cigaronne King Size Black"
+      "el": "Σιγκαρόν King Size Black",
+      "ru": "Сигарон King Size Black",
+      "hy": "Սիգարոն King Size Black"
     },
     "details_by_locale": {
       "en": null,
@@ -5360,9 +5361,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne King Size White",
-      "el": "Cigaronne King Size White",
-      "ru": "Cigaronne King Size White",
-      "hy": "Cigaronne King Size White"
+      "el": "Σιγκαρόν King Size White",
+      "ru": "Сигарон King Size White",
+      "hy": "Սիգարոն King Size White"
     },
     "details_by_locale": {
       "en": null,
@@ -5399,9 +5400,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Compatto Black",
-      "el": "Cigaronne Compatto Black",
-      "ru": "Cigaronne Compatto Black",
-      "hy": "Cigaronne Compatto Black"
+      "el": "Σιγκαρόν Compatto Black",
+      "ru": "Сигарон Compatto Black",
+      "hy": "Սիգարոն Compatto Black"
     },
     "details_by_locale": {
       "en": null,
@@ -5438,9 +5439,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Compatto White",
-      "el": "Cigaronne Compatto White",
-      "ru": "Cigaronne Compatto White",
-      "hy": "Cigaronne Compatto White"
+      "el": "Σιγκαρόν Compatto White",
+      "ru": "Сигарон Compatto White",
+      "hy": "Սիգարոն Compatto White"
     },
     "details_by_locale": {
       "en": null,
@@ -5477,9 +5478,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Ultra Slims Black",
-      "el": "Cigaronne Ultra Slims Black",
-      "ru": "Cigaronne Ultra Slims Black",
-      "hy": "Cigaronne Ultra Slims Black"
+      "el": "Σιγκαρόν Ultra Slims Black",
+      "ru": "Сигарон Ultra Slims Black",
+      "hy": "Սիգարոն Ultra Slims Black"
     },
     "details_by_locale": {
       "en": null,
@@ -5516,9 +5517,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Ultra Slims White",
-      "el": "Cigaronne Ultra Slims White",
-      "ru": "Cigaronne Ultra Slims White",
-      "hy": "Cigaronne Ultra Slims White"
+      "el": "Σιγκαρόν Ultra Slims White",
+      "ru": "Сигарон Ultra Slims White",
+      "hy": "Սիգարոն Ultra Slims White"
     },
     "details_by_locale": {
       "en": null,
@@ -5555,9 +5556,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Super Slims Black",
-      "el": "Cigaronne Super Slims Black",
-      "ru": "Cigaronne Super Slims Black",
-      "hy": "Cigaronne Super Slims Black"
+      "el": "Σιγκαρόν Super Slims Black",
+      "ru": "Сигарон Super Slims Black",
+      "hy": "Սիգարոն Super Slims Black"
     },
     "details_by_locale": {
       "en": null,
@@ -5594,9 +5595,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Super Slims White",
-      "el": "Cigaronne Super Slims White",
-      "ru": "Cigaronne Super Slims White",
-      "hy": "Cigaronne Super Slims White"
+      "el": "Σιγκαρόν Super Slims White",
+      "ru": "Сигарон Super Slims White",
+      "hy": "Սիգարոն Super Slims White"
     },
     "details_by_locale": {
       "en": null,
@@ -5633,9 +5634,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Super Slims Menthol",
-      "el": "Cigaronne Super Slims Menthol",
-      "ru": "Cigaronne Super Slims Menthol",
-      "hy": "Cigaronne Super Slims Menthol"
+      "el": "Σιγκαρόν Super Slims Menthol",
+      "ru": "Сигарон Super Slims Menthol",
+      "hy": "Սիգարոն Super Slims Menthol"
     },
     "details_by_locale": {
       "en": null,
@@ -5672,9 +5673,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Legend Black",
-      "el": "Cigaronne Legend Black",
-      "ru": "Cigaronne Legend Black",
-      "hy": "Cigaronne Legend Black"
+      "el": "Σιγκαρόν Legend Black",
+      "ru": "Сигарон Legend Black",
+      "hy": "Սիգարոն Legend Black"
     },
     "details_by_locale": {
       "en": null,
@@ -5711,9 +5712,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Legend White",
-      "el": "Cigaronne Legend White",
-      "ru": "Cigaronne Legend White",
-      "hy": "Cigaronne Legend White"
+      "el": "Σιγκαρόν Legend White",
+      "ru": "Сигарон Legend White",
+      "hy": "Սիգարոն Legend White"
     },
     "details_by_locale": {
       "en": null,
@@ -5750,9 +5751,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Big Boss",
-      "el": "Cigaronne Big Boss",
-      "ru": "Cigaronne Big Boss",
-      "hy": "Cigaronne Big Boss"
+      "el": "Σιγκαρόν Big Boss",
+      "ru": "Сигарон Big Boss",
+      "hy": "Սիգարոն Big Boss"
     },
     "details_by_locale": {
       "en": null,
@@ -5789,9 +5790,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Phantom",
-      "el": "Cigaronne Phantom",
-      "ru": "Cigaronne Phantom",
-      "hy": "Cigaronne Phantom"
+      "el": "Σιγκαρόν Phantom",
+      "ru": "Сигарон Phantom",
+      "hy": "Սիգարոն Phantom"
     },
     "details_by_locale": {
       "en": null,
@@ -5828,9 +5829,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Royal Slims Black",
-      "el": "Cigaronne Royal Slims Black",
-      "ru": "Cigaronne Royal Slims Black",
-      "hy": "Cigaronne Royal Slims Black"
+      "el": "Σιγκαρόν Royal Slims Black",
+      "ru": "Сигарон Royal Slims Black",
+      "hy": "Սիգարոն Royal Slims Black"
     },
     "details_by_locale": {
       "en": null,
@@ -5867,9 +5868,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Royal Slims White",
-      "el": "Cigaronne Royal Slims White",
-      "ru": "Cigaronne Royal Slims White",
-      "hy": "Cigaronne Royal Slims White"
+      "el": "Σιγκαρόν Royal Slims White",
+      "ru": "Сигарон Royal Slims White",
+      "hy": "Սիգարոն Royal Slims White"
     },
     "details_by_locale": {
       "en": null,
@@ -5906,9 +5907,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Royal Slims Menthol",
-      "el": "Cigaronne Royal Slims Menthol",
-      "ru": "Cigaronne Royal Slims Menthol",
-      "hy": "Cigaronne Royal Slims Menthol"
+      "el": "Σιγκαρόν Royal Slims Menthol",
+      "ru": "Сигарон Royal Slims Menthol",
+      "hy": "Սիգարոն Royal Slims Menthol"
     },
     "details_by_locale": {
       "en": null,
@@ -5945,9 +5946,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Magnet",
-      "el": "Cigaronne Magnet",
-      "ru": "Cigaronne Magnet",
-      "hy": "Cigaronne Magnet"
+      "el": "Σιγκαρόν Magnet",
+      "ru": "Сигарон Magnet",
+      "hy": "Սիգարոն Magnet"
     },
     "details_by_locale": {
       "en": null,
@@ -5984,9 +5985,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Magnet Beige",
-      "el": "Cigaronne Magnet Beige",
-      "ru": "Cigaronne Magnet Beige",
-      "hy": "Cigaronne Magnet Beige"
+      "el": "Σιγκαρόν Magnet Beige",
+      "ru": "Сигарон Magnet Beige",
+      "hy": "Սիգարոն Magnet Beige"
     },
     "details_by_locale": {
       "en": null,
@@ -6023,9 +6024,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Magnet Menthol",
-      "el": "Cigaronne Magnet Menthol",
-      "ru": "Cigaronne Magnet Menthol",
-      "hy": "Cigaronne Magnet Menthol"
+      "el": "Σιγκαρόν Magnet Menthol",
+      "ru": "Сигарон Magnet Menthol",
+      "hy": "Սիգարոն Magnet Menthol"
     },
     "details_by_locale": {
       "en": null,
@@ -6062,9 +6063,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Tattoo Cherry King Size",
-      "el": "Cigaronne Tattoo Cherry King Size",
-      "ru": "Cigaronne Tattoo Cherry King Size",
-      "hy": "Cigaronne Tattoo Cherry King Size"
+      "el": "Σιγκαρόν Tattoo Cherry King Size",
+      "ru": "Сигарон Tattoo Cherry King Size",
+      "hy": "Սիգարոն Tattoo Cherry King Size"
     },
     "details_by_locale": {
       "en": null,
@@ -6100,9 +6101,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Tattoo Cherry Slims",
-      "el": "Cigaronne Tattoo Cherry Slims",
-      "ru": "Cigaronne Tattoo Cherry Slims",
-      "hy": "Cigaronne Tattoo Cherry Slims"
+      "el": "Σιγκαρόν Tattoo Cherry Slims",
+      "ru": "Сигарон Tattoo Cherry Slims",
+      "hy": "Սիգարոն Tattoo Cherry Slims"
     },
     "details_by_locale": {
       "en": null,
@@ -6138,9 +6139,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Tattoo Chocolate King Size",
-      "el": "Cigaronne Tattoo Chocolate King Size",
-      "ru": "Cigaronne Tattoo Chocolate King Size",
-      "hy": "Cigaronne Tattoo Chocolate King Size"
+      "el": "Σιγκαρόν Tattoo Chocolate King Size",
+      "ru": "Сигарон Tattoo Chocolate King Size",
+      "hy": "Սիգարոն Tattoo Chocolate King Size"
     },
     "details_by_locale": {
       "en": null,
@@ -6176,9 +6177,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Tattoo Chocolate Slims",
-      "el": "Cigaronne Tattoo Chocolate Slims",
-      "ru": "Cigaronne Tattoo Chocolate Slims",
-      "hy": "Cigaronne Tattoo Chocolate Slims"
+      "el": "Σιγκαρόν Tattoo Chocolate Slims",
+      "ru": "Сигарон Tattoo Chocolate Slims",
+      "hy": "Սիգարոն Tattoo Chocolate Slims"
     },
     "details_by_locale": {
       "en": null,
@@ -6214,9 +6215,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Tattoo Vanilla King Size",
-      "el": "Cigaronne Tattoo Vanilla King Size",
-      "ru": "Cigaronne Tattoo Vanilla King Size",
-      "hy": "Cigaronne Tattoo Vanilla King Size"
+      "el": "Σιγκαρόν Tattoo Vanilla King Size",
+      "ru": "Сигарон Tattoo Vanilla King Size",
+      "hy": "Սիգարոն Tattoo Vanilla King Size"
     },
     "details_by_locale": {
       "en": null,
@@ -6252,9 +6253,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Tattoo Vanilla Slims",
-      "el": "Cigaronne Tattoo Vanilla Slims",
-      "ru": "Cigaronne Tattoo Vanilla Slims",
-      "hy": "Cigaronne Tattoo Vanilla Slims"
+      "el": "Σιγκαρόν Tattoo Vanilla Slims",
+      "ru": "Сигарон Tattoo Vanilla Slims",
+      "hy": "Սիգարոն Tattoo Vanilla Slims"
     },
     "details_by_locale": {
       "en": null,
@@ -6290,9 +6291,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Center Compatto Red",
-      "el": "Cigaronne Center Compatto Red",
-      "ru": "Cigaronne Center Compatto Red",
-      "hy": "Cigaronne Center Compatto Red"
+      "el": "Σιγκαρόν Center Compatto Red",
+      "ru": "Сигарон Center Compatto Red",
+      "hy": "Սիգարոն Center Compatto Red"
     },
     "details_by_locale": {
       "en": null,
@@ -6323,9 +6324,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Center Compatto Blue",
-      "el": "Cigaronne Center Compatto Blue",
-      "ru": "Cigaronne Center Compatto Blue",
-      "hy": "Cigaronne Center Compatto Blue"
+      "el": "Σιγκαρόν Center Compatto Blue",
+      "ru": "Сигарон Center Compatto Blue",
+      "hy": "Սիգարոն Center Compatto Blue"
     },
     "details_by_locale": {
       "en": null,
@@ -6356,9 +6357,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Center Compatto Black",
-      "el": "Cigaronne Center Compatto Black",
-      "ru": "Cigaronne Center Compatto Black",
-      "hy": "Cigaronne Center Compatto Black"
+      "el": "Σιγκαρόν Center Compatto Black",
+      "ru": "Сигарон Center Compatto Black",
+      "hy": "Սիգարոն Center Compatto Black"
     },
     "details_by_locale": {
       "en": null,
@@ -6389,9 +6390,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Center King Size Red",
-      "el": "Cigaronne Center King Size Red",
-      "ru": "Cigaronne Center King Size Red",
-      "hy": "Cigaronne Center King Size Red"
+      "el": "Σιγκαρόν Center King Size Red",
+      "ru": "Сигарон Center King Size Red",
+      "hy": "Սիգարոն Center King Size Red"
     },
     "details_by_locale": {
       "en": null,
@@ -6428,9 +6429,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Center King Size Blue",
-      "el": "Cigaronne Center King Size Blue",
-      "ru": "Cigaronne Center King Size Blue",
-      "hy": "Cigaronne Center King Size Blue"
+      "el": "Σιγκαρόν Center King Size Blue",
+      "ru": "Сигарон Center King Size Blue",
+      "hy": "Սիգարոն Center King Size Blue"
     },
     "details_by_locale": {
       "en": null,
@@ -6467,9 +6468,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Center King Size Black",
-      "el": "Cigaronne Center King Size Black",
-      "ru": "Cigaronne Center King Size Black",
-      "hy": "Cigaronne Center King Size Black"
+      "el": "Σιγκαρόν Center King Size Black",
+      "ru": "Сигарон Center King Size Black",
+      "hy": "Սիգարոն Center King Size Black"
     },
     "details_by_locale": {
       "en": null,
@@ -6506,9 +6507,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Center Ultra Slims Red",
-      "el": "Cigaronne Center Ultra Slims Red",
-      "ru": "Cigaronne Center Ultra Slims Red",
-      "hy": "Cigaronne Center Ultra Slims Red"
+      "el": "Σιγκαρόν Center Ultra Slims Red",
+      "ru": "Сигарон Center Ultra Slims Red",
+      "hy": "Սիգարոն Center Ultra Slims Red"
     },
     "details_by_locale": {
       "en": null,
@@ -6539,9 +6540,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Center Ultra Slims Blue",
-      "el": "Cigaronne Center Ultra Slims Blue",
-      "ru": "Cigaronne Center Ultra Slims Blue",
-      "hy": "Cigaronne Center Ultra Slims Blue"
+      "el": "Σιγκαρόν Center Ultra Slims Blue",
+      "ru": "Сигарон Center Ultra Slims Blue",
+      "hy": "Սիգարոն Center Ultra Slims Blue"
     },
     "details_by_locale": {
       "en": null,
@@ -6572,9 +6573,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Center Ultra Slims Black",
-      "el": "Cigaronne Center Ultra Slims Black",
-      "ru": "Cigaronne Center Ultra Slims Black",
-      "hy": "Cigaronne Center Ultra Slims Black"
+      "el": "Σιγκαρόν Center Ultra Slims Black",
+      "ru": "Сигарон Center Ultra Slims Black",
+      "hy": "Սիգարոն Center Ultra Slims Black"
     },
     "details_by_locale": {
       "en": null,
@@ -6605,9 +6606,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Center Super Slims Red",
-      "el": "Cigaronne Center Super Slims Red",
-      "ru": "Cigaronne Center Super Slims Red",
-      "hy": "Cigaronne Center Super Slims Red"
+      "el": "Σιγκαρόν Center Super Slims Red",
+      "ru": "Сигарон Center Super Slims Red",
+      "hy": "Սիգարոն Center Super Slims Red"
     },
     "details_by_locale": {
       "en": null,
@@ -6638,9 +6639,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Center Super Slims Blue",
-      "el": "Cigaronne Center Super Slims Blue",
-      "ru": "Cigaronne Center Super Slims Blue",
-      "hy": "Cigaronne Center Super Slims Blue"
+      "el": "Σιγκαρόν Center Super Slims Blue",
+      "ru": "Сигарон Center Super Slims Blue",
+      "hy": "Սիգարոն Center Super Slims Blue"
     },
     "details_by_locale": {
       "en": null,
@@ -6671,9 +6672,9 @@
     "category_slug": "cigarettes",
     "names_by_locale": {
       "en": "Cigaronne Center Super Slims Black",
-      "el": "Cigaronne Center Super Slims Black",
-      "ru": "Cigaronne Center Super Slims Black",
-      "hy": "Cigaronne Center Super Slims Black"
+      "el": "Σιγκαρόν Center Super Slims Black",
+      "ru": "Сигарон Center Super Slims Black",
+      "hy": "Սիգարոն Center Super Slims Black"
     },
     "details_by_locale": {
       "en": null,
