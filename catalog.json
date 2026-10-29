@@ -5426,6 +5426,135 @@
     }
   },
   {
+    "id": 131,
+    "base_name": "Рахат-лукум с арахисом",
+    "image_path": "/assets/peanutloxum.webp",
+    "unit": "шт",
+    "category_slug": "rahat-lokoum-and-fruit-jelly",
+    "names_by_locale": {
+      "en": "Rahat-lokum with peanuts",
+      "el": "Λουκούμι με φιστίκια",
+      "ru": "Рахат-лукум с арахисом",
+      "hy": "Ռահաթ-լոխում գետնանուշով"
+    },
+    "details_by_locale": {
+      "en": {
+        "description": [
+          "Classic vanilla rahat-lokum with peanuts."
+        ],
+        "shelfLife": "9 months",
+        "weightGrams": 250
+      },
+      "el": {
+        "description": [
+          "Κλασικό λουκούμι βανίλιας με φιστίκια."
+        ],
+        "shelfLife": "9 μήνες",
+        "weightGrams": 250
+      },
+      "ru": {
+        "description": [
+          "Классический ванильный рахат-лукум с арахисом."
+        ],
+        "shelfLife": "9 месяцев",
+        "weightGrams": 250
+      },
+      "hy": {
+        "description": [
+          "Դասական վանիլային ռահաթ-լոխում՝ գետնանուշով։"
+        ],
+        "shelfLife": "9 ամիս",
+        "weightGrams": 250
+      }
+    }
+  },
+  {
+    "id": 132,
+    "base_name": "Рахат-лукум традиционный",
+    "image_path": "/assets/rahat-lokum-traditional-250g-grandcandy.webp",
+    "unit": "шт",
+    "category_slug": "rahat-lokoum-and-fruit-jelly",
+    "names_by_locale": {
+      "en": "Rahat-lokum traditional",
+      "el": "Παραδοσιακό λουκούμι",
+      "ru": "Рахат-лукум традиционный",
+      "hy": "Ավանդական ռահաթ-լոխում"
+    },
+    "details_by_locale": {
+      "en": {
+        "description": [
+          "Classic vanilla rahat-lokum."
+        ],
+        "shelfLife": "9 months",
+        "weightGrams": 250
+      },
+      "el": {
+        "description": [
+          "Κλασικό λουκούμι βανίλιας."
+        ],
+        "shelfLife": "9 μήνες",
+        "weightGrams": 250
+      },
+      "ru": {
+        "description": [
+          "Классический ванильный рахат-лукум."
+        ],
+        "shelfLife": "9 месяцев",
+        "weightGrams": 250
+      },
+      "hy": {
+        "description": [
+          "Դասական վանիլային ռահաթ-լոխում։"
+        ],
+        "shelfLife": "9 ամիս",
+        "weightGrams": 250
+      }
+    }
+  },
+  {
+    "id": 133,
+    "base_name": "Рахат-лукум с фундуком",
+    "image_path": "/assets/rahat-lokum-hazelnut-250g-grandcandy.webp",
+    "unit": "шт",
+    "category_slug": "rahat-lokoum-and-fruit-jelly",
+    "names_by_locale": {
+      "en": "Rahat-lokum with hazelnuts",
+      "el": "Λουκούμι με φουντούκια",
+      "ru": "Рахат-лукум с фундуком",
+      "hy": "Ռահաթ-լոխում պնդուկով"
+    },
+    "details_by_locale": {
+      "en": {
+        "description": [
+          "Classic vanilla rahat-lokum with hazelnuts."
+        ],
+        "shelfLife": "9 months",
+        "weightGrams": 250
+      },
+      "el": {
+        "description": [
+          "Κλασικό λουκούμι βανίλιας με φουντούκια."
+        ],
+        "shelfLife": "9 μήνες",
+        "weightGrams": 250
+      },
+      "ru": {
+        "description": [
+          "Классический ванильный рахат-лукум с фундуком."
+        ],
+        "shelfLife": "9 месяцев",
+        "weightGrams": 250
+      },
+      "hy": {
+        "description": [
+          "Դասական վանիլային ռահաթ-լոխում՝ պնդուկով։"
+        ],
+        "shelfLife": "9 ամիս",
+        "weightGrams": 250
+      }
+    }
+  },
+  {
     "id": 10000,
     "base_name": "Cigaronne King Size Black",
     "image_path": "https://be.cigaronne.com/uploads/KS_black_mob_cc98f5b9b6.png",
