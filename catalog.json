@@ -1569,46 +1569,6 @@
     }
   },
   {
-    "id": 41,
-    "base_name": "Шоколадные конфеты \"Бинго\"",
-    "image_path": "/assets/ch40.webp",
-    "favorite": true,
-    "unit": "кг",
-    "category_slug": null,
-    "names_by_locale": {
-      "en": "Chocolates \"Bingo\"",
-      "el": "Σοκολατάκια \"Μπίνγκο\"",
-      "ru": "Шоколадные конфеты \"Бинго\"",
-      "hy": "Շոկոլադե կոնֆետներ \"Բինգո\""
-    },
-    "details_by_locale": {
-      "en": {
-        "description": [
-          "Multicoloured chocolates with cream filling."
-        ],
-        "shelfLife": "12 months"
-      },
-      "el": {
-        "description": [
-          "Πολύχρωμα σοκολατάκια με γέμιση κρέμας."
-        ],
-        "shelfLife": "12 μήνες"
-      },
-      "ru": {
-        "description": [
-          "Многоцветные шоколадные конфеты с кремовой начинкой."
-        ],
-        "shelfLife": "12 месяцев"
-      },
-      "hy": {
-        "description": [
-          "Բազմագույն շոկոլադե կոնֆետներ՝ կրեմային միջուկով։"
-        ],
-        "shelfLife": "12 ամիս"
-      }
-    }
-  },
-  {
     "id": 44,
     "base_name": "Шоколадные конфеты \"Бинго\"",
     "image_path": "/assets/ch43.jpg",
@@ -1649,46 +1609,6 @@
         ],
         "shelfLife": "12 ամիս",
         "weightGrams": 80
-      }
-    }
-  },
-  {
-    "id": 42,
-    "base_name": "Молочные шоколадные конфеты \"Эмоджи\"",
-    "image_path": "/assets/ch41.webp",
-    "favorite": true,
-    "unit": "кг",
-    "category_slug": null,
-    "names_by_locale": {
-      "en": "Milk chocolates \"Emoji\"",
-      "el": "Σοκολατάκια γάλακτος \"Έμοτζι\"",
-      "ru": "Молочные шоколадные конфеты \"Эмоджи\"",
-      "hy": "Կաթնային շոկոլադե կոնֆետներ \"Էմոջի\""
-    },
-    "details_by_locale": {
-      "en": {
-        "description": [
-          "Milk chocolates with popping caramel."
-        ],
-        "shelfLife": "12 months"
-      },
-      "el": {
-        "description": [
-          "Σοκολατάκια γάλακτος με καραμέλα που σκάει."
-        ],
-        "shelfLife": "12 μήνες"
-      },
-      "ru": {
-        "description": [
-          "Молочные шоколадные конфеты с шипучей карамелью."
-        ],
-        "shelfLife": "12 месяцев"
-      },
-      "hy": {
-        "description": [
-          "Կաթնային շոկոլադե կոնֆետներ՝ պայթող կարամելով։"
-        ],
-        "shelfLife": "12 ամիս"
       }
     }
   },
