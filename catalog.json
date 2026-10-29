@@ -4456,6 +4456,49 @@
     }
   },
   {
+    "id": 125,
+    "base_name": "Сливочное драже \"Снеговик\"",
+    "image_path": "/assets/snegovikweb.webp",
+    "unit": "шт",
+    "category_slug": "dragee",
+    "names_by_locale": {
+      "en": "Cream dragee \"Snowman\"",
+      "el": "Κουφέτο κρέμας \"Χιονάνθρωπος\"",
+      "ru": "Сливочное драже \"Снеговик\"",
+      "hy": "Կրեմային դրաժե \"Ձնեմարդ\""
+    },
+    "details_by_locale": {
+      "en": {
+        "description": [
+          "Packed dragee with white glaze, covered with sugar layer."
+        ],
+        "shelfLife": "12 months",
+        "weightGrams": 50
+      },
+      "el": {
+        "description": [
+          "Συσκευασμένο κουφέτο με λευκό γλάσο, καλυμμένο με στρώση ζάχαρης."
+        ],
+        "shelfLife": "12 μήνες",
+        "weightGrams": 50
+      },
+      "ru": {
+        "description": [
+          "Упакованное драже с белой глазурью, покрытое слоем сахара."
+        ],
+        "shelfLife": "12 месяцев",
+        "weightGrams": 50
+      },
+      "hy": {
+        "description": [
+          "Փաթեթավորված դրաժե՝ սպիտակ ջնարակով, պատված շաքարի շերտով։"
+        ],
+        "shelfLife": "12 ամիս",
+        "weightGrams": 50
+      }
+    }
+  },
+  {
     "id": 109,
     "base_name": "Драже \"Салют\"",
     "image_path": "/assets/ch108.webp",
