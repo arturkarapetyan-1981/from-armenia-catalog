@@ -3843,7 +3843,8 @@
   {
     "id": 92,
     "base_name": "Молочный шоколад \"Джуниор\"",
-    "image_path": "/assets/ch91.webp",
+    "image_path": "/assets/junior-50g-4pcs-grandcandy.png",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -3890,7 +3891,8 @@
   {
     "id": 93,
     "base_name": "Молочный шоколад \"Джуниор\"",
-    "image_path": "/assets/ch92.webp",
+    "image_path": "/assets/junior-katnayinshokolad-katnayin-mijukov-100g-grandcandy.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
