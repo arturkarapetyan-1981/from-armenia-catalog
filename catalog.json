@@ -1002,6 +1002,7 @@
     "id": 26,
     "base_name": "Шоколадные конфеты \"Наири\"с курагой",
     "image_path": "/assets/ch26.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1045,6 +1046,7 @@
     "id": 27,
     "base_name": "Шоколадные конфеты \"Наири\"с сухофруктом вишни",
     "image_path": "/assets/ch27.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1088,6 +1090,7 @@
     "id": 28,
     "base_name": "Шоколадные конфеты \"Наири\"с сухофруктом персика",
     "image_path": "/assets/ch28.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
