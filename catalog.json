@@ -4459,6 +4459,7 @@
     "id": 125,
     "base_name": "Сливочное драже \"Снеговик\"",
     "image_path": "/assets/snegovikweb.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
