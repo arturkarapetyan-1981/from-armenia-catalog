@@ -1655,6 +1655,50 @@
     }
   },
   {
+    "id": 128,
+    "base_name": "Молочные шоколадные конфеты \"Эмоджи\"",
+    "image_path": "/assets/draje-emoji-grandcandy.webp",
+    "favorite": true,
+    "unit": "шт",
+    "category_slug": null,
+    "names_by_locale": {
+      "en": "Milk chocolates \"Emoji\"",
+      "el": "Σοκολατάκια γάλακτος \"Έμοτζι\"",
+      "ru": "Молочные шоколадные конфеты \"Эмоджи\"",
+      "hy": "Կաթնային շոկոլադե կոնֆետներ \"Էմոջի\""
+    },
+    "details_by_locale": {
+      "en": {
+        "description": [
+          "Packed milk chocolates with popping caramel."
+        ],
+        "shelfLife": "12 months",
+        "weightGrams": 80
+      },
+      "el": {
+        "description": [
+          "Συσκευασμένα σοκολατάκια γάλακτος με καραμέλα που σκάει."
+        ],
+        "shelfLife": "12 μήνες",
+        "weightGrams": 80
+      },
+      "ru": {
+        "description": [
+          "Упакованные молочные шоколадные конфеты со взрывной карамелью."
+        ],
+        "shelfLife": "12 месяцев",
+        "weightGrams": 80
+      },
+      "hy": {
+        "description": [
+          "Փաթեթավորված կաթնային շոկոլադե կոնֆետներ՝ պայթող կարամելով։"
+        ],
+        "shelfLife": "12 ամիս",
+        "weightGrams": 80
+      }
+    }
+  },
+  {
     "id": 46,
     "base_name": "Молочные шоколадные конфеты \"Кофейные зёрна\"",
     "image_path": "/assets/ch45.webp",
