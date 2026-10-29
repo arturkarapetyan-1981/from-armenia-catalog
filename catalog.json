@@ -5429,6 +5429,7 @@
     "id": 131,
     "base_name": "Рахат-лукум с арахисом",
     "image_path": "/assets/rahat-lokum-peanuts-250g-grandcandy.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "rahat-lokoum-and-fruit-jelly",
     "names_by_locale": {
@@ -5472,6 +5473,7 @@
     "id": 132,
     "base_name": "Рахат-лукум традиционный",
     "image_path": "/assets/rahat-lokum-traditional-250g-grandcandy.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "rahat-lokoum-and-fruit-jelly",
     "names_by_locale": {
@@ -5515,6 +5517,7 @@
     "id": 133,
     "base_name": "Рахат-лукум с фундуком",
     "image_path": "/assets/rahat-lokum-hazelnut-250g-grandcandy.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "rahat-lokoum-and-fruit-jelly",
     "names_by_locale": {
@@ -5548,6 +5551,50 @@
       "hy": {
         "description": [
           "Դասական վանիլային ռահաթ-լոխում՝ պնդուկով։"
+        ],
+        "shelfLife": "9 ամիս",
+        "weightGrams": 250
+      }
+    }
+  },
+  {
+    "id": 134,
+    "base_name": "Рахат-лукум со вкусом розы",
+    "image_path": "/assets/rahat-lokum-rose-250g-grandcandy.webp",
+    "favorite": true,
+    "unit": "шт",
+    "category_slug": "rahat-lokoum-and-fruit-jelly",
+    "names_by_locale": {
+      "en": "Rahat-lokum with rose flavour",
+      "el": "Λουκούμι με άρωμα τριαντάφυλλου",
+      "ru": "Рахат-лукум со вкусом розы",
+      "hy": "Ռահաթ-լոխում՝ վարդի համով"
+    },
+    "details_by_locale": {
+      "en": {
+        "description": [
+          "Classic rahat-lokum with natural rose essential oil."
+        ],
+        "shelfLife": "9 months",
+        "weightGrams": 250
+      },
+      "el": {
+        "description": [
+          "Κλασικό λουκούμι με φυσικό αιθέριο έλαιο τριαντάφυλλου."
+        ],
+        "shelfLife": "9 μήνες",
+        "weightGrams": 250
+      },
+      "ru": {
+        "description": [
+          "Классический рахат-лукум с натуральным эфирным маслом розы."
+        ],
+        "shelfLife": "9 месяцев",
+        "weightGrams": 250
+      },
+      "hy": {
+        "description": [
+          "Դասական ռահաթ-լոխում՝ վարդի բնական եթերայուղով։"
         ],
         "shelfLife": "9 ամիս",
         "weightGrams": 250
