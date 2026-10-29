@@ -4500,6 +4500,49 @@
     }
   },
   {
+    "id": 126,
+    "base_name": "Шоколадное драже \"Санта-Клаус\"",
+    "image_path": "/assets/santa-claus.webp",
+    "unit": "шт",
+    "category_slug": "dragee",
+    "names_by_locale": {
+      "en": "Chocolate dragee \"Santa Claus\"",
+      "el": "Σοκολατένιο κουφέτο \"Σάντα Κλάους\"",
+      "ru": "Шоколадное драже \"Санта-Клаус\"",
+      "hy": "Շոկոլադե դրաժե \"Ձմեռ պապ\""
+    },
+    "details_by_locale": {
+      "en": {
+        "description": [
+          "Packed dragee with milk glaze, covered with sugar layer."
+        ],
+        "shelfLife": "12 months",
+        "weightGrams": 80
+      },
+      "el": {
+        "description": [
+          "Συσκευασμένο κουφέτο με γλάσο γάλακτος, καλυμμένο με στρώση ζάχαρης."
+        ],
+        "shelfLife": "12 μήνες",
+        "weightGrams": 80
+      },
+      "ru": {
+        "description": [
+          "Упакованное драже с молочной глазурью, покрытое слоем сахара."
+        ],
+        "shelfLife": "12 месяцев",
+        "weightGrams": 80
+      },
+      "hy": {
+        "description": [
+          "Փաթեթավորված դրաժե՝ կաթնային ջնարակով, պատված շաքարի շերտով։"
+        ],
+        "shelfLife": "12 ամիս",
+        "weightGrams": 80
+      }
+    }
+  },
+  {
     "id": 109,
     "base_name": "Драже \"Салют\"",
     "image_path": "/assets/ch108.webp",
