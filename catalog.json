@@ -1572,6 +1572,7 @@
     "id": 41,
     "base_name": "Шоколадные конфеты \"Бинго\"",
     "image_path": "/assets/ch40.webp",
+    "favorite": true,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1611,6 +1612,7 @@
     "id": 44,
     "base_name": "Шоколадные конфеты \"Бинго\"",
     "image_path": "/assets/ch43.jpg",
+    "favorite": true,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1654,6 +1656,7 @@
     "id": 42,
     "base_name": "Молочные шоколадные конфеты \"Эмоджи\"",
     "image_path": "/assets/ch41.webp",
+    "favorite": true,
     "unit": "кг",
     "category_slug": null,
     "names_by_locale": {
@@ -1693,6 +1696,7 @@
     "id": 45,
     "base_name": "Молочные шоколадные конфеты \"Эмоджи\"",
     "image_path": "/assets/ch44.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
