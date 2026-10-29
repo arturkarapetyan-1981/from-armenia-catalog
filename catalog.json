@@ -5380,6 +5380,50 @@
     }
   },
   {
+    "id": 130,
+    "base_name": "Фруктовое желе \"Фрутопия\"",
+    "image_path": "/assets/fruitopia-60g-grandcandy.png",
+    "favorite": true,
+    "unit": "шт",
+    "category_slug": "rahat-lokoum-and-fruit-jelly",
+    "names_by_locale": {
+      "en": "Fruit jelly \"Fruitopia\"",
+      "el": "Ζελέ φρούτων \"Φρουτόπια\"",
+      "ru": "Фруктовое желе \"Фрутопия\"",
+      "hy": "Մրգային ժելե \"Ֆրուտոպիա\""
+    },
+    "details_by_locale": {
+      "en": {
+        "description": [
+          "Fruit jelly in chocolate with cherry, strawberry, peach, lime, and orange flavours, packed."
+        ],
+        "shelfLife": "12 months",
+        "weightGrams": 60
+      },
+      "el": {
+        "description": [
+          "Ζελέ φρούτων σε σοκολάτα με γεύσεις κεράσι, φράουλα, ροδάκινο, λάιμ και πορτοκάλι, σε συσκευασία."
+        ],
+        "shelfLife": "12 μήνες",
+        "weightGrams": 60
+      },
+      "ru": {
+        "description": [
+          "Фруктовое желе в шоколаде со вкусами вишни, клубники, персика, лайма и апельсина, в упаковке."
+        ],
+        "shelfLife": "12 месяцев",
+        "weightGrams": 60
+      },
+      "hy": {
+        "description": [
+          "Շոկոլադապատ մրգային ժելե՝ բալի, ելակի, դեղձի, լայմի և նարնջի համերով, փաթեթավորված։"
+        ],
+        "shelfLife": "12 ամիս",
+        "weightGrams": 60
+      }
+    }
+  },
+  {
     "id": 10000,
     "base_name": "Cigaronne King Size Black",
     "image_path": "https://be.cigaronne.com/uploads/KS_black_mob_cc98f5b9b6.png",
