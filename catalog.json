@@ -1611,6 +1611,49 @@
     }
   },
   {
+    "id": 127,
+    "base_name": "Шоколадные конфеты \"Джуниор\"",
+    "image_path": "/assets/junior-60g-grandcandy.webp",
+    "unit": "шт",
+    "category_slug": null,
+    "names_by_locale": {
+      "en": "Chocolates \"Junior\"",
+      "el": "Σοκολατάκια \"Τζούνιορ\"",
+      "ru": "Шоколадные конфеты \"Джуниор\"",
+      "hy": "Շոկոլադե կոնֆետներ \"Ջունիոր\""
+    },
+    "details_by_locale": {
+      "en": {
+        "description": [
+          "Packed chocolates with cream filling, covered with milk chocolate."
+        ],
+        "shelfLife": "12 months",
+        "weightGrams": 60
+      },
+      "el": {
+        "description": [
+          "Συσκευασμένα σοκολατάκια με γέμιση κρέμας, καλυμμένα με σοκολάτα γάλακτος."
+        ],
+        "shelfLife": "12 μήνες",
+        "weightGrams": 60
+      },
+      "ru": {
+        "description": [
+          "Упакованные шоколадные конфеты с кремовой начинкой, покрытые молочным шоколадом."
+        ],
+        "shelfLife": "12 месяцев",
+        "weightGrams": 60
+      },
+      "hy": {
+        "description": [
+          "Փաթեթավորված շոկոլադե կոնֆետներ՝ կրեմային միջուկով, պատված կաթնային շոկոլադով։"
+        ],
+        "shelfLife": "12 ամիս",
+        "weightGrams": 60
+      }
+    }
+  },
+  {
     "id": 46,
     "base_name": "Молочные шоколадные конфеты \"Кофейные зёрна\"",
     "image_path": "/assets/ch45.webp",
