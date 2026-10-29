@@ -1614,6 +1614,7 @@
     "id": 127,
     "base_name": "Шоколадные конфеты \"Джуниор\"",
     "image_path": "/assets/junior-60g-grandcandy.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -4546,6 +4547,7 @@
     "id": 126,
     "base_name": "Шоколадное драже \"Санта-Клаус\"",
     "image_path": "/assets/santa-claus.webp",
+    "favorite": true,
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
