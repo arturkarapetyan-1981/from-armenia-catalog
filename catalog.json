@@ -1004,6 +1004,7 @@
     "image_path": "/assets/ch26.webp",
     "favorite": true,
     "price": "€2.31",
+    "wholesale_price": "€1.62",
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
