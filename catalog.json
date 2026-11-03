@@ -1004,7 +1004,7 @@
     "image_path": "/assets/ch26.webp",
     "favorite": true,
     "price": "€2.31",
-    "wholesale_price": "€1.62",
+    "wholesale_price": "€1.54",
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1049,6 +1049,8 @@
     "base_name": "Шоколадные конфеты \"Наири\"с сухофруктом вишни",
     "image_path": "/assets/ch27.webp",
     "favorite": true,
+    "price": "€2.59",
+    "wholesale_price": "€1.82",
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1090,15 +1092,17 @@
   },
   {
     "id": 28,
-    "base_name": "Шоколадные конфеты \"Наири\"с сухофруктом персика",
+    "base_name": "Шоколадные конфеты \"Наири\" с сушёными персиками",
     "image_path": "/assets/ch28.webp",
     "favorite": true,
+    "price": "€2.31",
+    "wholesale_price": "€1.54",
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
       "en": "Chocolate candies \"Nairi\" with dried peaches",
       "el": "Σοκολατάκια \"Ναϊρί\" με αποξηραμένα ροδάκινα",
-      "ru": "Шоколадные конфеты \"Наири\"с сухофруктом персика",
+      "ru": "Шоколадные конфеты \"Наири\" с сушёными персиками",
       "hy": "Շոկոլադե կոնֆետներ \"Նաիրի\" դեղձի չրով"
     },
     "details_by_locale": {
@@ -1617,6 +1621,8 @@
     "base_name": "Шоколадные конфеты \"Джуниор\"",
     "image_path": "/assets/junior-60g-grandcandy.webp",
     "favorite": true,
+    "price": "€2.36",
+    "wholesale_price": "€1.89",
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1661,6 +1667,8 @@
     "base_name": "Молочные шоколадные конфеты \"Эмоджи\"",
     "image_path": "/assets/draje-emoji-grandcandy.webp",
     "favorite": true,
+    "price": "€1.99",
+    "wholesale_price": "€1.35",
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -1705,6 +1713,8 @@
     "base_name": "Шоколадные конфеты \"Бинго\"",
     "image_path": "/assets/bingo.jpg",
     "favorite": true,
+    "price": "€1.99",
+    "wholesale_price": "€1.35",
     "unit": "шт",
     "category_slug": null,
     "names_by_locale": {
@@ -3847,6 +3857,8 @@
     "base_name": "Молочный шоколад \"Джуниор\"",
     "image_path": "/assets/junior-50g-4pcs-grandcandy.png",
     "favorite": true,
+    "price": "€1.17",
+    "wholesale_price": "€0.90",
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -3895,6 +3907,8 @@
     "base_name": "Молочный шоколад \"Джуниор\"",
     "image_path": "/assets/junior-katnayinshokolad-katnayin-mijukov-100g-grandcandy.webp",
     "favorite": true,
+    "price": "€2.43",
+    "wholesale_price": "€1.72",
     "unit": "шт",
     "category_slug": "chocolate-bars",
     "names_by_locale": {
@@ -4244,6 +4258,8 @@
     "base_name": "Молочные драже \"Paw Patrol\"",
     "image_path": "/assets/ch100.webp",
     "favorite": true,
+    "price": "€0.99",
+    "wholesale_price": "€0.70",
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4288,6 +4304,8 @@
     "base_name": "Драже с фундуком \"Paw Patrol\"",
     "image_path": "/assets/ch101.webp",
     "favorite": true,
+    "price": "€0.99",
+    "wholesale_price": "€0.70",
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4332,6 +4350,8 @@
     "base_name": "Драже с арахисом \"Paw Patrol\"",
     "image_path": "/assets/ch102.webp",
     "favorite": true,
+    "price": "€0.99",
+    "wholesale_price": "€0.70",
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4376,6 +4396,8 @@
     "base_name": "Молочное драже \"Panda\"",
     "image_path": "/assets/ch103.jpg",
     "favorite": true,
+    "price": "€0.99",
+    "wholesale_price": "€0.70",
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4420,6 +4442,8 @@
     "base_name": "Шоколадное драже \"Медвежонок\"",
     "image_path": "/assets/ch104.webp",
     "favorite": true,
+    "price": "€0.99",
+    "wholesale_price": "€0.70",
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4464,6 +4488,8 @@
     "base_name": "Драже с фундуком \"Белочка\"",
     "image_path": "/assets/ch105.webp",
     "favorite": true,
+    "price": "€0.99",
+    "wholesale_price": "€0.70",
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4508,6 +4534,8 @@
     "base_name": "Драже с арахисом \"Зайчик\"",
     "image_path": "/assets/ch106.webp",
     "favorite": true,
+    "price": "€0.99",
+    "wholesale_price": "€0.70",
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4552,6 +4580,8 @@
     "base_name": "Сливочное драже \"Коровка\"",
     "image_path": "/assets/ch107.webp",
     "favorite": true,
+    "price": "€0.99",
+    "wholesale_price": "€0.70",
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4596,6 +4626,8 @@
     "base_name": "Сливочное драже \"Снеговик\"",
     "image_path": "/assets/snegovikweb.webp",
     "favorite": true,
+    "price": "€0.99",
+    "wholesale_price": "€0.70",
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -4640,6 +4672,8 @@
     "base_name": "Шоколадное драже \"Санта-Клаус\"",
     "image_path": "/assets/santa-claus.webp",
     "favorite": true,
+    "price": "€2.36",
+    "wholesale_price": "€1.89",
     "unit": "шт",
     "category_slug": "dragee",
     "names_by_locale": {
@@ -5388,6 +5422,8 @@
     "base_name": "Фруктовое желе \"Фрутопия\"",
     "image_path": "/assets/fruitopia-60g-grandcandy.png",
     "favorite": true,
+    "price": "€1.59",
+    "wholesale_price": "€1.10",
     "unit": "шт",
     "category_slug": "rahat-lokoum-and-fruit-jelly",
     "names_by_locale": {
@@ -5432,6 +5468,8 @@
     "base_name": "Рахат-лукум с арахисом",
     "image_path": "/assets/rahat-lokum-peanuts-250g-grandcandy.webp",
     "favorite": true,
+    "price": "€2.65",
+    "wholesale_price": "€1.75",
     "unit": "шт",
     "category_slug": "rahat-lokoum-and-fruit-jelly",
     "names_by_locale": {
@@ -5476,6 +5514,8 @@
     "base_name": "Рахат-лукум традиционный",
     "image_path": "/assets/rahat-lokum-traditional-250g-grandcandy.webp",
     "favorite": true,
+    "price": "€2.65",
+    "wholesale_price": "€1.75",
     "unit": "шт",
     "category_slug": "rahat-lokoum-and-fruit-jelly",
     "names_by_locale": {
@@ -5520,6 +5560,8 @@
     "base_name": "Рахат-лукум с фундуком",
     "image_path": "/assets/rahat-lokum-hazelnut-250g-grandcandy.webp",
     "favorite": true,
+    "price": "€2.89",
+    "wholesale_price": "€1.90",
     "unit": "шт",
     "category_slug": "rahat-lokoum-and-fruit-jelly",
     "names_by_locale": {
@@ -5564,6 +5606,8 @@
     "base_name": "Рахат-лукум со вкусом розы",
     "image_path": "/assets/rahat-lokum-rose-250g-grandcandy.webp",
     "favorite": true,
+    "price": "€2.65",
+    "wholesale_price": "€1.75",
     "unit": "шт",
     "category_slug": "rahat-lokoum-and-fruit-jelly",
     "names_by_locale": {
