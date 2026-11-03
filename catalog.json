@@ -6002,6 +6002,9 @@
     "id": 10009,
     "base_name": "Cigaronne Legend Black",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_16_a31a3ba06f.png",
+    "favorite": true,
+    "price": "€11.00",
+    "wholesale_price": "€8.46",
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6041,6 +6044,9 @@
     "id": 10010,
     "base_name": "Cigaronne Legend White",
     "image_path": "https://be.cigaronne.com/uploads/Artboard_16_1_e1b38dd7f4.png",
+    "favorite": true,
+    "price": "€11.00",
+    "wholesale_price": "€8.46",
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
@@ -6080,6 +6086,9 @@
     "id": 10011,
     "base_name": "Cigaronne Big Boss",
     "image_path": "https://be.cigaronne.com/uploads/listing_l_BB_03_web_39711cf87b.png",
+    "favorite": true,
+    "price": "€11.00",
+    "wholesale_price": "€8.46",
     "unit": "pack",
     "category_slug": "cigarettes",
     "names_by_locale": {
